@@ -1,2 +1,2 @@
-# demo-semantics-conf
+# SEMANTiCS 2024
 
