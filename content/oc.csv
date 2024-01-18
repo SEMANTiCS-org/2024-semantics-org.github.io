@@ -1,22 +1,28 @@
 Conference Committee Group,Conference Committee,Name,Email,Status,Contacted,Easychair,country,affiliation,image
-CONFERENCE CHAIRS,Conference Chairs,Sahar Vahdati,vahdati@infai.org,confirmed,,,"Dresden, Germany",Institute for Applied Informatics (InfAI),vahdati.jpg
-CONFERENCE CHAIRS,Conference Chairs,Annalisa Gentile,annalisa.gentile@ibm.com,confirmed,,gentile.annalisa@gmail.com,"San Jose, CA, USA",IBM Research,gentile.jpg
-INDUSTRY CHAIRS,Industry Chairs,Christian Dirschl,Christian.Dirschl@wolterskluwer.com,confirmed,,,"Munich, Germany",Wolters Kluwer,drischi.jpg
-INDUSTRY CHAIRS,Industry Chairs,Marco Brattinga,marco.brattinga@ordina.nl,confirmed,,,Netherlands,Ordina,brattinga.jpg
-INDUSTRY CHAIRS,Industry Chairs,Thomas Thurner,,confirmed,,,"Vienna, Austria",Semantic Web Company,thurner.jpeg
-RESEARCH AND INNOVATION CHAIRS,Research and Innovation Chairs,Silvio Peroni ,silvio.peroni@unibo.it,confirmed,,essepuntato,"Bologna, Italy",University of Bologna,peroni.jpg
-RESEARCH AND INNOVATION CHAIRS,Research and Innovation Chairs,Maribel Acosta,maribel.acosta@ini.rub.de,confirmed,,,"Munich, Germany",Technical University of Munich,acosta.jpg
-POSTER AND DEMO CHAIRS,Poster and Demo Chairs,Sebastian Neumaier ,sebastian.neumaier@fhstp.ac.at,Confirmed,,,"Vienna, Austria",St. Pölten University of Applied Sciences,neumaier.jpg
-POSTER AND DEMO CHAIRS,Poster and Demo Chairs,Neha Keshan,keshan@rpi.edu,Confirmed,,,"New York, USA",Rensselaer Polytechnic Institute,keshan.jpg
-WORKSHOP AND TUTORIALS CHAIRS,Workshop and Tutorials Chairs,Anisa Rula,anisa.rula@unibs.it,confirmed,,,"Brescia, Italy",University of Brescia,rula.jpg
-WORKSHOP AND TUTORIALS CHAIRS,Workshop and Tutorials Chairs,Jennifer D'souza ,Jennifer.DSouza@tib.eu,confirmed,,,"Hannover, Germany",Technische Informationsbibliothek (TIB),dsouza.jpg
-LOCAL CHAIRS,Local Chairs,Julia Holze,holze@infai.org,confirmed,,,"Leipzig,Germany",Institute for Applied Informatics (InfAI),holze.jpg
-LOCAL CHAIRS,Local Chairs,Michael Martin ,martin@infai.org,confirmed,,,"Leipzig,Germany",Institute for Applied Informatics (InfAI),martin.jpg
-SPONSORING AND PROCEEDINGS CHAIRS,Sponsoring,Martin Kaltenböck,martin.kaltenboeck@semantic-web.com,confirmed,,,"Vienna, Austria",Semantic Web Company,kaltenbock.jpg
-SPONSORING AND PROCEEDINGS CHAIRS,Proceedings Chair,Tassilo Pellegrini,tassilo.pellegrini@fhstp.ac.at,confirmed,,,"St. Pölten, Austria",St. Pölten University of Applied Sciences,pellegrini.jpg
-SPONSORING AND PROCEEDINGS CHAIRS,Proceedings Chair,Jan Christoph Kalo,j.c.kalo@vu.nl,confirmed,,,"Amsterdam, Netherlands",Vrije Universiteit,kalo.jpg
-DIGITAL CONTENT CHAIRS,Web Content Chair,Ivan Heibi,ivan.heibi2@unibo.it,confirmed,,,"Bologna, Italy",University of Bologna,heibi.jpg
-DIGITAL CONTENT CHAIRS,Knowledge Graph Chair,Daniel Garijo,daniel.garijo@upm.es,confirmed,,,"Madrid, Spain",Universidad Politécnica de Madrid,garijo.jpg
-DIGITAL CONTENT CHAIRS,Conference Illustrator,"Mélisa Machuret",machuret.melisa@gmail.com,confirmed,,,"Villa De Leyva, Boyacá, Colombia","Better Way Devs",machuret.jpg
-PUBLICITY CHAIRS,Publicity Chair,Angelo Salatino,angelo.salatino@open.ac.uk,confirmed,,,"Milton Keynes, UK",The Open University,salatino.jpg
-PUBLICITY CHAIRS,Publicity Assitance,Katharina Koeb,mk211070@fhstp.ac.at,confirmed,,,"St. Pölten, Austria",St. Pölten University of Applied Sciences,kob.jpg
+GENERAL CHAIRS,General Chair,Sahar Vahdati,,,,,"Dresden, Germany",TU Dresden,Sahar_Vahdati.png
+GENERAL CHAIRS,General Chair,Annalisa Gentile,,,,,"San Francisco, USA",IBM Research,Annalisa_Gentile.jpeg
+GENERAL CHAIRS,General Chair,Ronald Siebes,,,,,"Amsterdam, Netherlands",VU Amsterdam ,Ronald_Siebes.png
+EVENT COORDINATORS,Event Coordinator,Julia Holze,,,,,"Leipzig, Germany",Institute for Applied Informatics (InfAI),Julia_Holze.jpg
+INTERACTIVE SESSION CHAIRS,Interactive Session Chair,Christian Dirschl,,,,,"Munich, Germany",Wolters Kluwer,Christian_Dirschl.jpg
+INTERACTIVE SESSION CHAIRS,Interactive Session Chair,Ute John,,,,,"Wendland, Germany",WissensWertSchöpfung | GfWM,Ute_John.jpg
+INTERACTIVE SESSION CHAIRS,Interactive Session Chair,Silvio Perroni,,,,,"Bologna, Italy",University of Bologna,any.png
+INDUSTRY CHAIRS,Industry Chair,Marco Brattinga,,,,,Netherlands,Ordina,Marco_Brattinga.jpg
+INDUSTRY CHAIRS,Industry Chair,Ioanna Lytra,,,,,"Vienna, Austria",Semantic Web Company,Ioanna_Lytra.jpg
+PROGRAM CHAIRS,Program Chair,Maribel Acosta,,,,,"Heilbronn, Germany",Technical University of Munich,Maribel_Acosta.jpg
+PROGRAM CHAIRS,Program Chair,Andreas Behrend,,,,,"Cologne, Germany",TU of Cologne,any.png
+RESEARCH AND INNOVATION CHAIRS,Research and Innovation Chair,Angelo Salatino,,,,,"Milton Keynes, UK","KMi, The Open University",Angelo_Salatino.jpg
+POSTER AND DEMO CHAIRS,Poster and Demo Chair,Anelia Kurteva,,,,,"Delft, Netherlands",TU Delft,Anelia_Kurteva.jpeg
+POSTER AND DEMO CHAIRS,Poster and Demo Chair,Francesco Osborne,,,,,"Milton Keynes, UK","KMi, The Open University",Francesco_Osborne.jpeg
+WORKSHOP AND TUTORIALS CHAIRS,Workshop and Tutorials Chair,Andrea Manocci ,,,,,"Pisa, Italy",CNR-ISTI,Andrea_Mannocci.jpg
+WORKSHOP AND TUTORIALS CHAIRS,Workshop and Tutorials Chair,Daniel Garijo,,,,,"Madrid, Spain",Universidad Politécnica de Madrid,Daniel_Garijo.png
+SPONSORING CHAIRS,Sponsoring Chair,Martin Kaltenböck,,,,,"Vienna, Austria",Semantic Web Company,Martin_Kaltenböck.jpeg
+PROCEEDINGS CHAIRS,Proceedings Chair,Tassilo Pellegrini,,,,,Austria,UAS St. Pölten ,Tassilo_Pellegrini.jpeg
+PROCEEDINGS CHAIRS,Proceedings Chair,Shufan Jiang ,,,,,Germany,FIZ Karlsruhe,any.png
+PUBLICITY CHAIRS,Publicity Chair ,Blerina Spahiu,,,,,"Milan, Italy",University of Milan - Bicocca,Blerina_Spahiu.jpeg
+PUBLICITY CHAIRS,Publicity Chair,Asal Alikhani,,,,,"Dresden, Germany",elevait GmbH & Co. KG,Asal_Alikhani.jpeg
+PUBLICITY CHAIRS,Publicity Chair - Graduate School,Frank Loebe,,,,,"Leipzig, Germany","Leipzig University, ScaDS.AI Dresden/Leipzig",Frank_Loebe.jpg
+WEB CONTENT CHAIRS,Web Content Chair,Livio Pompianu,,,,,"Cagliari, Italy",University of Cagliari,Livio_Pompianu.jpg
+WEB CONTENT CHAIRS,Web Content Chair ,Enrique Iglesias,,,,,"Hannover, Germany",L3S group,any.png
+WEB CONTENT CHAIRS,Web Content Assitant ,Sanaz Alipour,,,,,"Tabriz, Iran",,any.png
+KNOWLEDGE GRAPH CHAIRS,Knowledge Graph Chair,Ana Iglesias-Molina,,,,,"Madrid, Spain",Universidad Politécnica de Madrid,Ana_Iglesias.jpeg
+DIGITAL CONTENCT CHAIRS,Digital Contenct Chair,Mélisa Machuret,,,,,"Villa De Leyva, Boyacá, Colombia",Better Way Devs,Melisa_Machuret.png
