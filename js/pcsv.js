@@ -313,9 +313,9 @@ function populate_quotes_container(fcsv, page, container, baseurl) {
           var affiliation = entry["affiliation"];
           var quote = entry["quote"];
 
-          var image = "../img/person/"+entry["img"].trim();
+          var image = "../img/person/quotes/"+entry["img"].trim();
           if (page == "index") {
-            image = baseurl+"img/person/"+entry["img"].trim();
+            image = baseurl+"img/person/quotes/"+entry["img"].trim();
           }
 
           var html_img = '<img typeof="foaf:Image" src="'+image+'" class="image-profile" alt="">';
