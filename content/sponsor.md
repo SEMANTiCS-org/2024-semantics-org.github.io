@@ -12,7 +12,7 @@ Get in touch with the Sponsoring Team regarding requests, questions and booking.
 <a href="mailto:sponsoring@semantics.cc" style="font-size: 12pt" type="button" class="btn btn-primary">sponsoring@semantics.cc</a>
 <br/>
 <br/>
-<table border="0" cellpadding="0" cellspacing="0" id="sheet0" class="sponsor-tab">
+<table border ="0" cellpadding="0" cellspacing="0" id="sheet0" class="sponsor-tab">
     <col class="col0">
     <col class="col1">
     <col class="col2">
@@ -32,7 +32,7 @@ Get in touch with the Sponsoring Team regarding requests, questions and booking.
         <td class="td-blue">TALKS</td>
         <td class="td-blue">Sponsored Talk<br />
 Top level speaking opportunity in a 25 minutes slot</td>
-        <td class="td-orange">✓ Keynote 45 minutes</td>
+        <td class="td-orange">✓ <br/>Keynote 45 minutes</td>
         <td class="td-orange">✓</td>
         <td class="td-gray">&nbsp;</td>
         <td class="td-gray">&nbsp;</td>
@@ -84,6 +84,7 @@ tickets with 40% discount</td>
         <td class="th-gold">&nbsp;</td>
         <td class="th-gold">&nbsp;</td>
         <td class="th-gold">&nbsp;</td>
+        <td class="th-gold">&nbsp;</td>
       </tr>
       <tr class="row7">
         <td class="td-blue">MATERIAL IN THE BAG</td>
@@ -120,6 +121,7 @@ SLIDES</td>
         <td class="th-gold">&nbsp;</td>
         <td class="th-gold">&nbsp;</td>
         <td class="th-gold">&nbsp;</td>
+        <td class="th-gold">&nbsp;</td>
       </tr>
       <tr class="row11">
         <td class="td-blue">SOCIAL<br />
@@ -152,10 +154,10 @@ as main sponsor
         <td class="td-orange">✓</td>
         <td class="td-orange">✓</td>
         <td class="td-gray">&nbsp;</td>
-        <td class="td-gray">&nbsp;</td>
       </tr>
       <tr class="row14">
         <td colspan="2" class="">LEADS GENERATION</td>
+        <td class="th-gold">&nbsp;</td>
         <td class="th-gold">&nbsp;</td>
         <td class="th-gold">&nbsp;</td>
         <td class="th-gold">&nbsp;</td>
@@ -201,6 +203,7 @@ as main sponsor
         <td class="th-gold">&nbsp;</td>
         <td class="th-gold">&nbsp;</td>
         <td class="th-gold">&nbsp;</td>
+         <td class="th-gold">&nbsp;</td>
       </tr>
        <tr class="row20">
         <td class="th-gold">OPTIONAL</td>
