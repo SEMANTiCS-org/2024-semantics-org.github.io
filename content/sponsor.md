@@ -1,15 +1,22 @@
 # Sponsorship Packages
-***The __SEMANTiCS 2024 conference offers__ sponsors a carefully selected and high level audience with which to interact. Leading-edge technologists mixing with brand names, research luminaries, market analysts and big business users from various application markets offer a unique networking experience. In addition, carefully placed speaking slots and dedicated session naming ensures brand exposure in a targeted environment. We propose 5 main sponsoring packs that will help you meet a range of visibility and lead-generation needs. Please do not hesitate to contact us to discuss these and customise our standard offering to your specific needs.***
+<p style="text-align: justify;">The<b>SEMANTiCS 2024 conference offers</b> 
+ponsors a carefully selected and high level audience with which to interact. Leading-edge technologists mixing with brand names, research luminaries, market analysts and big business users from various application markets offer a unique networking experience. In addition, carefully placed speaking slots and dedicated session naming ensures brand exposure in a targeted environment. We propose 5 main sponsoring packs that will help you meet a range of visibility and lead-generation needs. Please do not hesitate to contact us to discuss these and customise our standard offering to your specific needs.</p>
 
 ## Visibility and networking opportunities
 Target attendance is a 450+ mix of technology providers, users & integrators, business leaders, leadingedge developers, researchers, investors and analysts who will either participate physically or remotely. 
 
+<div style="text-align: center;">
+<img src="../img/sponsors/sponsor.jpg" style="" width="65%" height="auto" alt="">  
 
-<img src="../img/sponsors/sponsor.jpg" style="max-width:450px" width="65%" height="auto" alt="">  
 <br/>
-Get in touch with the Sponsoring Team regarding requests, questions and booking.  
+<br/>
+<br/>
+
+<p>Get in touch with the Sponsoring Team regarding requests, questions and booking.</p>
 <br/>
 <a href="mailto:sponsoring@semantics.cc" style="font-size: 12pt" type="button" class="btn btn-primary">sponsoring@semantics.cc</a>
+</div>
+
 <br/>
 <br/>
 <table border ="0" cellpadding="0" cellspacing="0" id="sheet0" class="sponsor-tab">
@@ -145,12 +152,8 @@ MEDIA</td>
       <tr class="row13">
         <td class="td-blue">PRESS &amp; PROMOTION</td>
         <td class="td-blue">Listing in all press releases and online dissemination</td>
-        <td class="td-orange">✓
-as main sponsor
-</td>
-        <td class="td-orange">✓
-as main sponsor
-</td>
+        <td class="td-orange">✓ <br/>as main sponsor</td>
+        <td class="td-orange">✓ <br/>as main sponsor</td>
         <td class="td-orange">✓</td>
         <td class="td-orange">✓</td>
         <td class="td-gray">&nbsp;</td>
