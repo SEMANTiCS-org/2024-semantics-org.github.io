@@ -1,5 +1,5 @@
 # Sponsorship Packages
-<p style="text-align: justify;">The<b>SEMANTiCS 2024 conference offers</b> 
+<p style="text-align: justify;">The <b>SEMANTiCS 2024 conference offers</b> 
 ponsors a carefully selected and high level audience with which to interact. Leading-edge technologists mixing with brand names, research luminaries, market analysts and big business users from various application markets offer a unique networking experience. In addition, carefully placed speaking slots and dedicated session naming ensures brand exposure in a targeted environment. We propose 5 main sponsoring packs that will help you meet a range of visibility and lead-generation needs. Please do not hesitate to contact us to discuss these and customise our standard offering to your specific needs.</p>
 
 ## Visibility and networking opportunities
@@ -26,6 +26,7 @@ Target attendance is a 450+ mix of technology providers, users & integrators, bu
     <col class="col3">
     <col class="col4">
     <col class="col5">
+    <col class="col6">
     <tbody>
       <tr class="row0">
         <td colspan="2" class="">YOUR PRESENCE</td>
