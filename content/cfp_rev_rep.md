@@ -80,6 +80,7 @@ Each submission will be reviewed by at least three Programme Committee members. 
 The text of all the reviews (excluding the scores) of all the accepted papers will be posted on the conference website with the basic bibliographic metadata of the reviewed submission (i.e. title and authors), and it will be archived on Zenodo as publicly available material. All the signed reviews of the accepted papers will be licensed using a Creative Commons Attribution license (CC-BY, the copyright holder will be the reviewer), except the anonymous ones that will be released in CC0.
 </p>
 Papers submitted to this track will be evaluated according to the following criteria:
+
 * Appropriateness
 * Originality, novelty, and innovativeness
 * Impact of results
