@@ -1,6 +1,7 @@
 # Research and Innovation Track
+ <p  style="text-align: justify;">
 The Research and Innovation track at SEMANTiCS 2024 welcomes papers on novel scientific research and innovations relevant to the Semantic Web, Semantic Technologies, and semantic-enabled AI. We also welcome submissions at the intersection between this field and other scientific disciplines. Submissions should be original and should not have been published elsewhere in any form or language. Papers must adhere to the instructions given in the submission guidelines, including references and optional appendices. Each submission will receive at least three independent reviews and will be evaluated based on their novelty, technical quality, reproducibility, and practical significance.
-
+</p>
 
 ## Important dates
 * **Abstract Submission Deadline**: April 22, 2024
@@ -72,10 +73,12 @@ Application of Semantically-Enriched and AI-Based Approaches, such as, but not l
 
 
 ## Review and Evaluation Criteria
+ <p  style="text-align: justify;">
 Each submission will be reviewed by at least three Programme Committee members. The reviewing process is double-blind. However, reviewers can disclose their identity by signing their reviews and/or adding one of their persistent identifiers (e.g. their ORCID).
-
+</p>
+<p  style="text-align: justify;">
 The text of all the reviews (excluding the scores) of all the accepted papers will be posted on the conference website with the basic bibliographic metadata of the reviewed submission (i.e. title and authors), and it will be archived on Zenodo as publicly available material. All the signed reviews of the accepted papers will be licensed using a Creative Commons Attribution license (CC-BY, the copyright holder will be the reviewer), except the anonymous ones that will be released in CC0.
-
+</p>
 Papers submitted to this track will be evaluated according to the following criteria:
 * Appropriateness
 * Originality, novelty, and innovativeness
@@ -96,7 +99,8 @@ Femke Ongenae (Ghent University-imec, BE) <br />
 
 
 ## About SEMANTiCS Conference
+ <p  style="text-align: justify;">
 Since 2005, the annual SEMANTiCS conference has been the meeting place for researchers, industry experts, and business leaders to discuss the latest trends and application scenarios in the fields of Knowledge Graphs, Machine Learning, Data Science, Linked Data, Artificial Intelligence, and Natural Language Processing.
 SEMANTiCS tackles challenges faced by information managers, software engineers, IT-architects and various domain experts who are involved in the development, implementation and evaluation of semantic software systems. The SEMANTiCS program offers a diverse range of technical talks, panel discussions on relevant topics, and contributions from individuals actively engaged in practical implementation or scholarly research. Attendees can network with experts in a variety of fields. These relationships provide great value to organisations as they encounter subtle technical issues in any stage of implementation. The expertise gained by SEMANTiCS attendees has a long-term impact on their professional trajectories and organisational endeavours. These factors make SEMANTiCS the major outreach event on semantic technologies across Europe, America and beyond.
-
+</p>
 
