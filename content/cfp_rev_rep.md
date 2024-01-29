@@ -1,7 +1,7 @@
 # Research and Innovation Track
- <p  style="text-align: justify;">
+ <p  style="text-align: justify !important;">
 The Research and Innovation track at SEMANTiCS 2024 welcomes papers on novel scientific research and innovations relevant to the Semantic Web, Semantic Technologies, and semantic-enabled AI. We also welcome submissions at the intersection between this field and other scientific disciplines. Submissions should be original and should not have been published elsewhere in any form or language. Papers must adhere to the instructions given in the submission guidelines, including references and optional appendices. Each submission will receive at least three independent reviews and will be evaluated based on their novelty, technical quality, reproducibility, and practical significance.
-</p>
+
 
 ## Important dates
 * **Abstract Submission Deadline**: April 22, 2024
@@ -99,7 +99,7 @@ Femke Ongenae (Ghent University-imec, BE) <br />
 
 
 ## About SEMANTiCS Conference
- <p  style="text-align: justify;">
+ <p  style="text-align: justify !important;">
 Since 2005, the annual SEMANTiCS conference has been the meeting place for researchers, industry experts, and business leaders to discuss the latest trends and application scenarios in the fields of Knowledge Graphs, Machine Learning, Data Science, Linked Data, Artificial Intelligence, and Natural Language Processing.
 SEMANTiCS tackles challenges faced by information managers, software engineers, IT-architects and various domain experts who are involved in the development, implementation and evaluation of semantic software systems. The SEMANTiCS program offers a diverse range of technical talks, panel discussions on relevant topics, and contributions from individuals actively engaged in practical implementation or scholarly research. Attendees can network with experts in a variety of fields. These relationships provide great value to organisations as they encounter subtle technical issues in any stage of implementation. The expertise gained by SEMANTiCS attendees has a long-term impact on their professional trajectories and organisational endeavours. These factors make SEMANTiCS the major outreach event on semantic technologies across Europe, America and beyond.
 </p>
