@@ -13,7 +13,7 @@ All deadlines are set for 11:59 pm, Hawaii time (UTC-10)
 
 __Submissions will be through Easychair. Stay tuned for the submission link.__
 
-Proceedings of SEMANTiCS 2024 EU will be made available __open access__. The publisher will be IOS Press - Studies on Semantic Web Series.
+Proceedings of SEMANTiCS 2024 EU will be made available __open access__.
 
 
 ## Topics of Interest
@@ -59,13 +59,12 @@ Application of Semantically-Enriched and AI-Based Approaches, such as, but not l
 
 ## Submission Guidelines
 * The Research and Innovation Track welcomes long and short papers. Long papers should have 12-15 pages of content (excluding references) and short papers of a maximum length of 6 pages of content (excluding references). Since references are excluded from page counting, it is fine to have one or more additional pages for references if they are relevant to the study submitted.  
-* Submissions should follow the guidelines of IOS Press. Details are available at https://www.iospress.com/book-article-instructions.
 * Abstract submission for all papers is a strict requirement. To facilitate bidding, we strongly suggest the authors submit structured abstracts.
 * All papers and abstracts have to be submitted electronically via EasyChair.
 * Submissions must be in English.
 * Submissions must adhere to the fair use of Large Language Models. Please refer to the SEMANTiCS [full policy](https://2024-eu.semantics.cc/page/llm-policy) for more details.
 * Submissions must be anonymous; the reviewing process is double-blind, but reviewers will be able to disclose their identities if they wish, by signing their reviews.
-* Accepted papers will be published in open access proceedings by IOS Press, and the text of all the reviews (excluding the scores) of all the accepted papers will be posted on the conference website and will be archived on [Zenodo](https://zenodo.org/) as publicly available material.
+* Accepted papers will be published in open access.
 * At least one author of each accepted paper must present it in person and therefore register for the conference at the ONSITE rate.
 * All authors are strongly suggested to provide optional links to code, materials, and datasets during the submission process - we will have specific optional  fields in the EasyChair submission form - the review process will take these into account when provided. To anonymise resources for the reviewing process, authors can use services like [Anonymous GitHub](https://anonymous.4open.science/) or figshare/Zenodo as described [here](https://ineed.coffee/post/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance#double-blind-data-submission-on-figshare).
 * The Research and Innovation Track will not accept papers that, at the time of submission, are under review or have already been published in or accepted for publication in a journal or another conference.
