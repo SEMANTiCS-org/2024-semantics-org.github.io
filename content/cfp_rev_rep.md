@@ -9,7 +9,7 @@ The Research and Innovation track at SEMANTiCS 2024 welcomes papers on novel sci
 * **Notification of Acceptance**: June 11, 2024
 * **Camera-Ready Paper Deadline**: July 09, 2024
 
-All deadlines are set for 11:59 pm, Hawaii time (UTC-10)
+All deadlines are set for 11:59 pm, Anywhere On Earth time (UTC-12)
 
 __Submissions will be through Easychair. Stay tuned for the submission link.__
 
