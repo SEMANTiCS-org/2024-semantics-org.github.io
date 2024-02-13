@@ -11,7 +11,7 @@ The Research and Innovation track at SEMANTiCS 2024 welcomes papers on novel sci
 
 All deadlines are set for 11:59 pm, Anywhere On Earth time (UTC-12)
 
-__Submissions will be through Easychair. Stay tuned for the submission link.__
+__Submission via Easychair on [https://easychair.org/my/conference?conf=sem24](https://easychair.org/my/conference?conf=sem24).__
 
 Proceedings of SEMANTiCS 2024 EU will be made available __open access__.
 
