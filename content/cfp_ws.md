@@ -8,19 +8,19 @@
     -->
     <br/> 
     <h1>Important Dates</h1>
-    <p>Important Dates for Workshops</p>
+    <h4>Important Dates for Workshops</h4>
     <ul>
         <li><b>Proposals WS Deadline:&nbsp;</b>March 22, 2024 (11:59 pm, AoE)</li>
         <li><b>Notification of Acceptance:&nbsp;</b>March 29, 2024 (11:59 pm, AoE)</li>
         <li><b>Workshop website is online:&nbsp;</b>April 15th, 2024</li>
     </ul>
    <br>
-   <p>Suggested dates for Workshop organizers (with Call for Papers)</p>
+   <h4>Suggested dates for Workshop organizers (with Call for Papers)</h4>
    <ul>
        <li><b>Submission WS papers Deadline:&nbsp;</b>June 14, 2024 (11:59 pm, AoE)</li>
        <li><b>Notification of Acceptance:&nbsp;</b>July 05, 2024 (11:59 pm, AoE)</li>      
    </ul>
-   <p>Important Dates for Tutorials (and other meetings, e.g. seminars, show-cases, etc., without call for papers):</p>
+   <h4>Important Dates for Tutorials (and other meetings, e.g. seminars, show-cases, etc., without call for papers):</h4>
    <ul>
     <li><b>Proposals Tutorial Deadline:&nbsp;</b>June 11, 2024 (11:59 pm, AoE)</li>
     <li><b>Notification of Acceptance:&nbsp;</b>June 18, 2024 (11:59 pm, AoE)</li>
