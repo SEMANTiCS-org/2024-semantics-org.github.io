@@ -5,14 +5,14 @@
     <br/> 
     <p>Important Dates for Workshops:</p>
     <ul>
-        <li>Proposals WS Deadline:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;March 22, 2024 (11:59 pm, AoE)</li>
-        <li>Notification of Acceptance:&nbsp;&nbsp;&nbsp;&nbsp;March 29, 2024 (11:59 pm, AoE)</li>
+        <li>Proposals WS Deadline:&nbsp;March 22, 2024 (11:59 pm, AoE)</li>
+        <li>Notification of Acceptance:&nbsp;March 29, 2024 (11:59 pm, AoE)</li>
     </ul>
    <br>
    <p>Important Dates for Tutorials (and other meetings, e.g. seminars, show-cases, etc., without call for papers):</p>
    <ul>
-    <li>Proposals Tutorial Deadline:&nbsp;&nbsp;&nbsp;June 11, 2024 (11:59 pm, AoE)</li>
-    <li>Notification of Acceptance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June 18, 2024 (11:59 pm, AoE)</li>
+    <li>Proposals Tutorial Deadline:&nbsp;June 11, 2024 (11:59 pm, AoE)</li>
+    <li>Notification of Acceptance:&nbsp;June 18, 2024 (11:59 pm, AoE)</li>
    </ul>
    <br>
    <p> Submission via Easychair on <a href="https://easychair.org/my/conference?conf=sem24">https://easychair.org/my/conference?conf=sem24</a> </p>
@@ -65,21 +65,21 @@
         <p>Important Dates for Workshops:
         </p>
         <ul>
-            <li>Proposals WS Deadline:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;March 22, 2024 (11:59 pm, AoE)</li>
-            <li>Notification of Acceptance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;March 29, 2024 (11:59 pm, AoE)
+            <li>Proposals WS Deadline:&nbsp;March 22, 2024 (11:59 pm, AoE)</li>
+            <li>Notification of Acceptance:&nbsp;March 29, 2024 (11:59 pm, AoE)
             </li>
-            <li>Workshop website is online:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;April 15th, 2024 
+            <li>Workshop website is online:&nbsp;April 15th, 2024 
             </li>
         </ul>
         <p>Suggested dates for Workshop organizers (with Call for Papers)</p>
         <ul>
-            <li>Submission WS papers Deadline:&nbsp;&nbsp;June 14, 2024 (11:59 pm, AoE)</li>
-            <li>Notification of Acceptance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 05, 2024 (11:59 pm, AoE)</li>      
+            <li>Submission WS papers Deadline:&nbsp;June 14, 2024 (11:59 pm, AoE)</li>
+            <li>Notification of Acceptance:&nbsp;July 05, 2024 (11:59 pm, AoE)</li>      
         </ul>
         <p>Important Dates for Tutorials (and other meetings, e.g. seminars, show-cases, etc., without call for papers):</p>
         <ul>
-            <li>Proposals Tutorial Deadline:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June 11, 2024 (11:59 pm, AoE)</li>
-            <li>Notification of Acceptance: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June 18, 2024 (11:59 pm, AoE)</li>
+            <li>Proposals Tutorial Deadline:&nbsp;June 11, 2024 (11:59 pm, AoE)</li>
+            <li>Notification of Acceptance: &nbsp;June 18, 2024 (11:59 pm, AoE)</li>
         </ul>  
         <h2> Review and Evaluation Criteria</h2>
         <p>Workshop and tutorial proposals will be reviewed by the SEMANTiCS 2024 Workshop Chairs, as well as by the SEMANTiCS 2024 organizing committee, according to the following criteria:</p>
