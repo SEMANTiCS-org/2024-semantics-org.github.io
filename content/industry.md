@@ -89,25 +89,14 @@
     <li>
         <p><em>Approach and IT-Solution</em><em><br></em>Which approach and methodology has been chosen to tackle the problem(s)? How is your solution composed with respect to technological aspects / human aspects / organisational aspects? How do the semantic components support the process from data to knowledge?</p>
     </li>
-    <li><em>
-            <ul>
-                <li>
-                    <p>Success Criteria for / Benefit of the Semantic Solution<br>Which factors (conscious and unconscious) have been crucial to the success of your project? Which obstacles did you face? How can you measure the benefit of your solution? How does the organisation benefit from your solution?</p>
-                </li>
-            </ul>
-        </em><em>
-            <ul>
-                <li>
-                    <p>Prospects and Recommendations<br>What are the next steps planned in your project? Can you give recommendations with respect to development / deployment of semantic solutions within organisational / corporate settings?</p>
-                </li>
-            </ul>
-        </em><em>
-            <ul>
-                <li>
-                    <p>Demo (if applicable)<br>Prepare a short demonstration of your tool / service.</p>
-                </li>
-            </ul>
-        </em></li>
+    <li>
+        <p>Success Criteria for / Benefit of the Semantic Solution<br>Which factors (conscious and unconscious) have been crucial to the success of your project? Which obstacles did you face? How can you measure the benefit of your solution? How does the organisation benefit from your solution?</p>
+    </li>   
+    <li>
+    <p>Prospects and Recommendations<br>What are the next steps planned in your project? Can you give recommendations with respect to development / deployment of semantic solutions within organisational / corporate settings?</p></li>
+    <li>
+        <p>Demo (if applicable)<br>Prepare a short demonstration of your tool / service.</p>
+    </li>
 </ul>
 <h2>Review and Evaluation Criteria</h2>
 <p>Every submission will be reviewed by the Programme Committee.</p>
