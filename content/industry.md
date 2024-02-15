@@ -121,9 +121,14 @@
 <p style="text-align: justify !important;">In case your presentation will be accepted, we will provide you with detailed information on organisational matters according to the selection of submissions and conference participation.</p>
 <h2>Your Benefit</h2>
 <p style="text-align: justify !important;">Presenters will be granted access to the entire program of the SEMANTiCS Conference (incl. all social events) at a reduced rate. Additionally, presenters will have the possibility to discuss their contributions with an interested audience and exchange ideas on how semantic technologies can be utilized for corporate and business needs more effectively and successfully. Besides that, the Industry Presentations at SEMANTiCS generate a high visibility within the Semantics Community and allow you to meet interesting experts and extend your business network.</p>
-
-<p style="text-align: justify !important;"><a href="https://easychair.org/conferences/?conf=sem24"><u><span style="color:#1155cc;background-color:#007bff;font-size:12pt;">Submit now</u></a>&nbsp;<br><br><br></p>
-<h2>We are looking forward to your contribution!</h2>
+<div class="row">
+    <div class="col mx-auto">
+        <div style="text-align: center; margin-top: 50px;"><a href="https://easychair.org/conferences/?conf=sem24" type="button" class="btn btn-primary" style="font-size: 1.2em;">SUBMIT NOW</a></div>
+    </div>
+</div>
+<br>
+<h3>We are looking forward to your contribution!</h3>
+<br>
 <p style="text-align: justify !important;">
     <br>Marco Brattinga<br>Ioanna Lytra<br>Erwin Folmer</p>
-<h2>Industry &amp; Use Case Track Chairs</h2>
+<h4>Industry &amp; Use Case Track Chairs</h4>
