@@ -3,15 +3,16 @@
 <h2>Important dates</h2>
 <ul>
     <li>
-        <p style="text-align: justify !important;"><strong>Submission Deadline</strong>: May 28, 2024 (11:59 pm, Hawaii time)</p>
+        <p style="text-align: justify !important;"><strong>Submission Deadline</strong>: May 28, 2024</p>
     </li>
     <li>
-        <p style="text-align: justify !important;"><strong>Notification of Acceptance</strong>: June 25, 2024 (11:59 pm, Hawaii time)</p>
+        <p style="text-align: justify !important;"><strong>Notification of Acceptance</strong>: June 25, 2024</p>
     </li>
     <li>
-        <p style="text-align: justify !important;"><strong>Presentation Ready</strong>: August 13, 2024 (11:59 pm, Hawaii time)&nbsp;</p>
+        <p style="text-align: justify !important;"><strong>Presentation Ready</strong>: August 13, 2024</p>
     </li>
 </ul>
+<p style="text-align: justify !important;">All deadlines are set for 11:59 pm, Anywhere On Earth time (UTC-12)</p>
 <p style="text-align: justify !important;"><strong>Submission via Easychair on&nbsp;</strong><a href="https://easychair.org/conferences/?conf=sem24"><strong><u><span style="color:#1155cc;font-size:12pt;">https://easychair.org/conferences/?conf=sem24</u></strong></a><strong>.&nbsp;</strong>Please notice that a paper abstract is not necessary, as your submission will only include a presentation at SEMANTiCS and not a paper. Any submission should contain a summary of 200 to 300 words that will be used in the final program. Your submission must also include a full page description of the use case you want to present, In particular: initial situation, approach, business value and benefits of the semantic solution, prospects and recommendation. Submissions that don&rsquo;t meet these requirements cannot be taken into account.</p>
 <h2>Topics of Interest</h2>
 <p style="text-align: justify !important;">SEMANTiCS 2024 especially invites contributions that target the following main topics in the context of semantic-based research and systems as well as applicative domains.</p>
