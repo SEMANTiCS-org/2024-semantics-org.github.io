@@ -9,7 +9,7 @@
         <li><b>Workshop website is online:&nbsp;</b>April 15th, 2024</li>
     </ul>
 
-   <p>Suggested dates for Workshop organizers (with Call for Papers)</p>
+   <p>Suggested Dates for Workshop Organizers (with Call for Papers)</p>
    <ul>
        <li><b>Submission WS papers Deadline:&nbsp;</b>June 14, 2024 (11:59 pm, AoE)</li>
        <li><b>Notification of Acceptance:&nbsp;</b>July 05, 2024 (11:59 pm, AoE)</li>      
