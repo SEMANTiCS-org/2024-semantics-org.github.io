@@ -1,8 +1,9 @@
 # Press Corner
-##### SEMANTiCS stands as the main European event dedicated to exploring the significance of semantic technologies, which serve as critical components driving the development and deployment of data-driven applications. As the 20th edition approaches, SEMANTiCS continues its tradition of bringing together leaders from diverse industries, distinguished researchers, data scientists, information management professionals, and experts in digital transformation. This convergence of expertise creates the ideal environment to foster collaboration and facilitate the exchange of knowledge. 
-
+<p style="text-align: justify !important;"> SEMANTiCS stands as the main European event dedicated to exploring the significance of semantic technologies, which serve as critical components driving the development and deployment of data-driven applications. As the 20th edition approaches, SEMANTiCS continues its tradition of bringing together leaders from diverse industries, distinguished researchers, data scientists, information management professionals, and experts in digital transformation. This convergence of expertise creates the ideal environment to foster collaboration and facilitate the exchange of knowledge. 
+</p>
+<p style="text-align: justify !important;"> 
 If you wish to cover the conference or conduct interviews with the speakers, please don't hesitate to contact our PR team. Reach out to us for media accreditation!
-
+</p>
 ### Press pictures
 
 <table>
