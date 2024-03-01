@@ -4,6 +4,7 @@
 <p style="text-align: justify !important;"> 
 If you wish to cover the conference or conduct interviews with the speakers, please don't hesitate to contact our PR team. Reach out to us for media accreditation!
 </p>
+
 ### Press pictures
 
 <table>
