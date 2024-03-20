@@ -4,8 +4,8 @@
     <h2>Important Dates</h2>
     <p>Important Dates for Workshops</p>
     <ul>
-        <li><b>Proposals WS Deadline:&nbsp;</b>March 22, 2024 (11:59 pm, AoE)</li>
-        <li><b>Notification of Acceptance:&nbsp;</b>March 29, 2024 (11:59 pm, AoE)</li>
+        <li><b>Proposals WS Deadline:&nbsp;</b><del>March 22</del> March 29th (extended), 2024 (11:59 pm, AoE)</li>
+        <li><b>Notification of Acceptance:&nbsp;</b> <del>March 29</del> April 5th (extended), 2024 (11:59 pm, AoE)</li>
         <li><b>Workshop website is online:&nbsp;</b>April 15th, 2024</li>
     </ul>
 
