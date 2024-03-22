@@ -4,7 +4,7 @@ The Posters & Demos Track provides a platform for researchers to present their l
 
 ## Important dates
 * **Paper Submission Deadline**: June 25, 2024
-* **Notification of Acceptance**: July 09, 2024
+* **Notification of Acceptance**: <del>July 09</del> July 29 (extended), 2024
 * **Camera-Ready Paper Deadline**: August 06, 2024
 
 All deadlines are set for 11:59 pm, Anywhere On Earth time (UTC-12)
