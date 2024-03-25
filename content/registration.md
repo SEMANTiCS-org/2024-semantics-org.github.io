@@ -91,10 +91,10 @@ Join us from September 17 - 19, 2024 in Amsterdam for the leading European confe
       </tr>
       <tr class="row11 tr-summary">
         <td class="">&nbsp;</td>
-        <td class=""><a href="" type="button" class="btn btn-primary disabled">BOOK NOW</a></td>
-        <td class="td-last-ontop"><a href="" type="button" class="btn btn-primary disabled">BOOK NOW</a></td>
-        <td class=""><a href="" type="button" class="btn btn-primary disabled">BOOK NOW</a></td>
-        <td class=""><a href="" type="button" class="btn btn-primary disabled">BOOK NOW</a></td>
+        <td class=""><a href="" type="button" class="btn btn-primary disabled">COMING SOON</a></td>
+        <td class="td-last-ontop"><a href="" type="button" class="btn btn-primary disabled">COMING SOON</a></td>
+        <td class=""><a href="" type="button" class="btn btn-primary disabled">COMING SOON</a></td>
+        <td class=""><a href="" type="button" class="btn btn-primary disabled">COMING SOON</a></td>
       </tr>
     </tbody>
 </table>
