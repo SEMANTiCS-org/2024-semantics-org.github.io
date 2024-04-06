@@ -38,7 +38,7 @@
 <li><p style="text-align: justify !important;">Marco Brattinga, Ordina</p></li>
 </ul>
 <br>
-<p><a style="text-decoration: none;" target="_blank" href="#">Website</a></p>
+<p>Website: TBA</p>
 <br>
 
 # NXDG: NeXt-Generation Data Governance 
@@ -51,5 +51,5 @@
 <li><p style="text-align: justify !important;">Harshvardhan Pandit, ADAPT Centre, Dublin City University</p></li>
 </ul>
 <br>
-<p><a style="text-decoration: none;" target="_blank" href="#">Website</a></p>
+<p>Website:TBD</p>
 <br>
