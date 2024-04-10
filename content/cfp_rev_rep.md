@@ -61,7 +61,7 @@ Application of Semantically-Enriched and AI-Based Approaches, such as, but not l
 * The Research and Innovation Track welcomes long and short papers. Long papers should have 12-15 pages of content (excluding references) and short papers of a maximum length of 6 pages of content (excluding references). Since references are excluded from page counting, it is fine to have one or more additional pages for references if they are relevant to the study submitted.
 * Submissions should follow the guidelines of IOS Press. Details are available at [https://www.iospress.com/book-article-instructions](https://www.iospress.com/book-article-instructions).
 * Authors need to use the [Word template](https://www.iospress.com/sites/default/files/media/files/2022-06/ECRC-Author-Instructions-and-tools-Word.zip) or [LaTeX template](https://vtex-soft.github.io/texsupport.IOS-Book-Article/) provided by IOS Press. Overleaf users can copy the project [from here](https://www.overleaf.com/read/gkkspcvjgwxv#563836) (follow instructions in the abstract).  
-* Abstract submission for all papers is a strict requirement. To facilitate bidding, we strongly suggest the authors submit structured abstracts.
+* Abstract submission for all papers is a strict requirement. To facilitate bidding, we strongly suggest the authors submit structured abstracts (instructions on how to prepare a structured abstract are [available in the conference website](https://2024-eu.semantics.cc/page/cfp_abstract)).
 * All papers and abstracts have to be submitted electronically via EasyChair.
 * Submissions must be in English.
 * Submissions must adhere to the fair use of Large Language Models. Please refer to the SEMANTiCS [full policy](https://2024-eu.semantics.cc/page/llm-policy) for more details.
