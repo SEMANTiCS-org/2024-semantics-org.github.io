@@ -33,13 +33,17 @@
 # Large Language Models and Knowledge Graphs unified: use cases and examples
 <p style="text-align: justify !important;">Large Language models (LLMs) and Generative AI have changed drastically the way we look at knowledge representation and use. Many organizations are investigating how to generate business value from the combination of the two words; LLMs and Knowledge Graphs (KGs). Responsible AI is a key topic of discussion. As with data, it is not only an asset that can be used, but also a liability that needs to be managed. Concerns like biases and hallucinations are hard problems to be solved. On the other hand, KGs are well understood and widely used concepts for knowledge representation. They do not suffer from the aforementioned concerns, but the flip side is that maintaining KGs is often a task which requires considerable human effort and using KGs is often harder than using LLMs.This workshop is all about combining LLMs and KGs. It focusses on real-life, practical use-cases that industry (both commercial and governmental organizations) are currently working on. All talks are presented by invited speakers from industry and research organizations and will present what works in a practical setting to add business value and use AI in a responsible way.
 You can expect discussions on use cases like:
-- Using LLMs to convert knowledge from unstructured text to a KG
-- Using KGs as data for RAG (Retrieval augmented generation) LLMs
-- Using LLMs as a natural language interface for semantic search in a KG
-- Using KGs to validate results of LLM prompts
-- Using LLMs to predict links in KG
-- Using KGs for constructing LLM prompts
-- Using LLMs to convert tabular data into graph data</p>
+</p>
+
+<ul>
+	<li><p style="text-align: justify !important;">Using LLMs to convert knowledge from unstructured text to a KG</p></li>
+	<li><p style="text-align: justify !important;">Using KGs as data for RAG (Retrieval augmented generation) LLMs</p></li>
+	<li><p style="text-align: justify !important;">Using LLMs as a natural language interface for semantic search in a KG</p></li>
+	<li><p style="text-align: justify !important;">Using KGs to validate results of LLM prompts</p></li>
+	<li><p style="text-align: justify !important;">Using LLMs to predict links in KG</p></li>
+	<li><p style="text-align: justify !important;">Using KGs for constructing LLM prompts</p></li>
+	<li><p style="text-align: justify !important;">Using LLMs to convert tabular data into graph data</p></li>
+</ul>
 
 ## Organizers:
 <ul>
