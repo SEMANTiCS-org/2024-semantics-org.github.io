@@ -15,6 +15,7 @@ __Submission via Easychair on [https://easychair.org/my/conference?conf=sem24](h
 
 Proceedings of SEMANTiCS 2024 EU will be made available __open access__. The publisher will be IOS Press - Studies on Semantic Web Series.
 
+We strongly encourage __early-career female AI researchers__, especially doctoral students, to attend this year's semantics conference, for which we are offering travel grants sponsored by the [Artificial Intelligence Journal](https://www.sciencedirect.com/journal/artificial-intelligence/) to support their participation.
 
 ## Topics of Interest
 SEMANTiCS 2024 calls for submissions of excellent quality addressing the following topics in the Semantic Web area, from both theoretical and practical perspectives.
