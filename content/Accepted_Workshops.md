@@ -49,10 +49,10 @@ You can expect discussions on use cases like:
 <ul>
 <li><p style="text-align: justify !important;">Marco Brattinga, Ordina</p></li>
 <li><p style="text-align: justify !important;">Ioanna Lytra, Semantic Web Company</p></li>
-<li><p style="text-align: justify !important;">Erwin Folmer, Apeldoorn</p></li>
+<li><p style="text-align: justify !important;">Erwin Folmer, Kadaster, HAN</p></li>
 </ul>
 <br>
-<p>Website: TBA</p>
+<p><a style="text-decoration: none;" target="_blank" href="https://sites.google.com/view/llmskgs">Website</a></p>
 <br>
 
 # NXDG: NeXt-Generation Data Governance 
