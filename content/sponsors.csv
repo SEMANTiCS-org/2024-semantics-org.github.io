@@ -1,6 +1,6 @@
 type,url,img,name,img_ratio
 gold,https://www.poolparty.biz/,pp.svg,PoolParty,64/16
-gold,https://www.taxonic.com/en/,Taxonic.png,Taxonic,64/16
-gold,https://metaphacts.com/,metaphacts.png,Metaphacts,64/16
+gold,https://www.taxonic.com/en/,Taxonic.png,Taxonic,48/28
+gold,https://metaphacts.com/,metaphacts.png,Metaphacts,48/28
 silver,https://pantopix.com,pantopix.png,Pantopix,64/16
-startup,https://www.semanticpartners.com,sp.png,Semantic Partners,64/16
+startup,https://www.semanticpartners.com,sp.png,Semantic Partners,28/28
