@@ -1,8 +1,8 @@
 # Important Dates
 
 ## Call for Research & Innovation Papers  
-* **Abstract Submission Deadline**: April 22, 2024
-* **Paper Submission Deadline**: April 29, 2024
+* **Abstract Submission Deadline**: ~~April 22, 2024~~ **May 6, 2024**
+* **Paper Submission Deadline**: ~~April 29, 2024~~ **May 13, 2024**
 * **Notification of Acceptance**: June 11, 2024
 * **Camera-Ready Paper Deadline**: July 09, 2024
 
