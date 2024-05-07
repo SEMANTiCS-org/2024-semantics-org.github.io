@@ -65,5 +65,5 @@ You can expect discussions on use cases like:
 <li><p style="text-align: justify !important;">Harshvardhan Pandit, ADAPT Centre, Dublin City University</p></li>
 </ul>
 <br>
-<p>Website:TBD</p>
+<p><a href="https://w3id.org/nxdg/2024">Website</a></p>
 <br>
