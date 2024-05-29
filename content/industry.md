@@ -3,7 +3,7 @@
 <h2>Important dates</h2>
 <ul>
     <li>
-        <p style="text-align: justify !important;"><strong>Submission Deadline</strong>: May 28, 2024</p>
+        <p style="text-align: justify !important;"><strong>Submission Deadline</strong>: June 10, 2024</p>
     </li>
     <li>
         <p style="text-align: justify !important;"><strong>Notification of Acceptance</strong>: June 25, 2024</p>
