@@ -35,5 +35,11 @@ We have secured contingents in a few hotels in Amsterdam. After you have purchas
   </tr>
 </table>  
 
+### Travel
+
+<div class="venue-sec-title"><img style="vertical-align:middle" src="../img/icons/airplane-fill.svg" width="30" height="30"></span><span> Fly in by plane</span></div> 
+
+From Schiphol airport it takes about 15-25 minutes to reach the venue by public transport or even faster by taking a taxi. By public transport you can easily plan the route via [here](https://www.google.com/maps/dir/Avis+Budget+Autoverhuur+Amsterdam+Schiphol,+Aankomstpassage+5,+1118+AX+Schiphol,+Netherlands/Meervaart,+Meer+en+Vaart+300,+1068+LE+Amsterdam,+Netherlands/@52.3338805,4.7489029,13z/data=!4m13!4m12!1m5!1m1!1s0x47c5e129cd42a477:0xa9dfb4f481a89983!2m2!1d4.76146!2d52.30967!1m5!1m1!1s0x47c5e3d2049c0b57:0x1c80bfab51a1315f!2m2!1d4.8073711!2d52.3590932?entry=ttu).
+
 ## Parking spaces in Amsterdam
 Check all [car parks](https://www.meervaart.nl/theater/english/uw-bezoek/bereikbaarheid-en-parkeren) in Amsterdam.
