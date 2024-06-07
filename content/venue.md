@@ -21,12 +21,6 @@ The Meervaart is one of the best known venues in the Netherlands and offers faci
     <th>Address</th>
     <!--<th>Get a reduced rate until</th>-->
   </tr>
-
-  <tr>
-    <td><a href="https://westcordhotels.de/hotel/fashion-hotel-amsterdam/">WestCord Fashion Hotel</a></td>
-    <td>Hendrikje Stoffelssstraat 1<br>1058 GC Amsterdam<br><br>phone: +31 (0) 208100800<br><a href="mailto:fashion@westcordhotels.nl">fashion@westcordhotels.nl</a></td>
-    <!--<td>10.09.2023<br>Please write an email to <a href="mailto:semantics@infai.org">semantics@infai.org</a></td>-->
-  </tr>
 </table>
 <br>
 
