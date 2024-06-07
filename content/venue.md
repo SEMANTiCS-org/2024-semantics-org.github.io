@@ -1,6 +1,6 @@
 # Venue
 
-div class="d-flex justify-content-between bd-highlight mb-3">
+<div class="d-flex justify-content-between bd-highlight mb-3">
  <img src="../img/venue.png" style="max-width:32%; min-width:200px" width="60%" height="auto" alt="">
  <img src="../img/venue_outside.jpg" style="max-width:32%; min-width:200px" width="60%" height="auto" alt="">  
  <img src="../img/venue_lobby.jpg" style="max-width:32%; min-width:200px" width="60%" height="auto" alt="">  
