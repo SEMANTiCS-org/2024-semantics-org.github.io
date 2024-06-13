@@ -10,7 +10,7 @@
 <li><p style="text-align: justify !important;">Harald Sack, FIZ Karlsruhe, Leibniz Institute for Information Infrastructure, Germany</p></li>
 </ul>
 <br>
-<p><a style="text-decoration: none;" target="_blank" href="https://sites.google.com/view/semanticmaterials">Website</a></p>
+<p><a style="text-decoration: none;" target="_blank" href="https://sites.google.com/view/semanticmaterials">Workshop website</a></p>
 <br>
 
 # 3rd NLP4KGC: Natural Language Processing for Knowledge 
@@ -27,7 +27,7 @@
 <li><p style="text-align: justify !important;">Ryan Mcgranaghan, NASA Jet Propulsion Laboratory</p></li>
 </ul>
 <br>
-<p><a style="text-decoration: none;" target="_blank" href="https://sites.google.com/view/3rdnlp4kgc/home">Website</a></p>
+<p><a style="text-decoration: none;" target="_blank" href="https://sites.google.com/view/3rdnlp4kgc/home">Workshop website</a></p>
 <br>
 
 # Large Language Models and Knowledge Graphs unified: use cases and examples
@@ -52,7 +52,7 @@ You can expect discussions on use cases like:
 <li><p style="text-align: justify !important;">Erwin Folmer, Kadaster, HAN</p></li>
 </ul>
 <br>
-<p><a style="text-decoration: none;" target="_blank" href="https://sites.google.com/view/llmskgs">Website</a></p>
+<p><a style="text-decoration: none;" target="_blank" href="https://sites.google.com/view/llmskgs">Workshop website</a></p>
 <br>
 
 # NXDG: NeXt-Generation Data Governance 
@@ -65,5 +65,5 @@ You can expect discussions on use cases like:
 <li><p style="text-align: justify !important;">Harshvardhan Pandit, ADAPT Centre, Dublin City University</p></li>
 </ul>
 <br>
-<p><a href="https://w3id.org/nxdg/2024">Website</a></p>
+<p><a href="https://w3id.org/nxdg/2024">Workshop website</a></p>
 <br>
