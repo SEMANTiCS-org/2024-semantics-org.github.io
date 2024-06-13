@@ -74,10 +74,10 @@ You can expect discussions on use cases like:
 
 # Accepted workshops
 <hr>
-<p style="font-size: 21px; text-align: justify !important;"><b>The Ultimate Guide to Semantic Reasoning: How to enrich your data for practical applications including use with RAG & LLMs.</b></p>
+<p style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b>The Ultimate Guide to Semantic Reasoning: How to enrich your data for practical applications including use with RAG & LLMs.</b></p>
 <p>Peter Crocker, Valerio Cocchi and Thomas Vout.</p>
 <p style="font-size: 21px;"><b>Description:</b></p>
-<p style="text-align: justify !important;">
+<p style="text-align: justify !important; margin: 0 !important">
 Semantic reasoning is fast becoming a must-have for anyone running a knowledge graph application as a route to better data, faster queries, and ultimately greater insights. With ever-improving
 technology, these benefits are no longer for an exclusive few and are instead widely accessible, and
 yet, many in the industry still lack the knowledge and understanding to fully capture the power of
@@ -91,10 +91,10 @@ reasoning, is enabling real-world applications, including how to enhance RAG and
 solutions. For beginners and experts alike, no prior knowledge is required
 </p>
 <br>
-<p style="font-size: 21px; text-align: justify !important;"><b>Modeling product ontologies for industrial KG applications</b></p>
+<p style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b>Modeling product ontologies for industrial KG applications</b></p>
 <p> Prof Dr. Martin Ley, Maximilian Gärber and <a style="text-decoration: none;" target="_blank" href="https://pantopix.com/">Maraike Heim</a>.</p>
 <p style="font-size: 21px;"><b>Description:</b></p>
-<p style="text-align: justify !important;">
+<p style="text-align: justify !important; margin: 0 !important">
 he main purpose of many industrial KG applications is providing the right information to
 the right person at the right time. From an information point of view (i. e. with respect to
 information units and information types,) this goal is supported by iiRDS, the intelligent
@@ -113,9 +113,9 @@ developing the framework for a common approach to the modeling of product ontolo
 
 
 <br>
-<p style="font-size: 21px; text-align: justify !important;"><b>Semantics in Data Spaces: Semantic Treehouse as Vocabulary Hub. </b></p>
+<p style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b>Semantics in Data Spaces: Semantic Treehouse as Vocabulary Hub. </b></p>
 <p>Jelte Bootsma, Linda Oosterheert and Cornelis Bouter.</p>
-<p style="font-size: 21px;"><b>Description:</b></p>
-<p style="text-align: justify !important;">
+<p style="margin: 0 !important"><b>Description:</b></p>
+<p style="text-align: justify !important; margin: 0 !important ">
 Data sharing accelerates innovations within and across sectors, leading to the development of new solutions. For a growing number of companies, this turns data into a strategic asset over which they want to maintain control. The European strategy for data aims to create common European data spaces to ensure Europe’s global competitiveness and data sovereignty. Data spaces are distributed systems designed to facilitate secure and trustworthy data exchanges between participants, emphasizing trust and data sovereignty. One of the crucial aspect in making this happen is semantics, which enables consistent and unambiguous data sharing between participants of a data space. Achieving semantic interoperability is a continuous balancing act between maintaining strict uniformity for consistent and easily understandable data, and accommodating the diverse requirements of different data space participants. This tutorial offers practical insights into shaping semantics within data spaces, with TNO’s Semantic Treehouse as so-called vocabulary hub as an important means. The tutorial highlights the challenges and presents solutions for achieving semantic interoperability in the context of data spaces.
 </p>
