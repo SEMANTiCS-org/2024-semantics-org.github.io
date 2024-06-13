@@ -68,16 +68,16 @@ You can expect discussions on use cases like:
 <li><p style="text-align: justify !important;">Harshvardhan Pandit, ADAPT Centre, Dublin City University</p></li>
 </ul>
 <br>
-<p><a href="https://w3id.org/nxdg/2024">Workshop website</a></p>
+<p><a style="text-decoration: none;" target="_blank" href="https://w3id.org/nxdg/2024">Workshop website</a></p>
 <br>
 <hr>
 
 # Accepted workshops
 
-<p style="font-size: 21px;"><b>The Ultimate Guide to Semantic Reasoning: How to enrich your data for practical applications including use with RAG & LLMs.</b></p>
+<p style="font-size: 21px; text-align: justify !important;"><b>The Ultimate Guide to Semantic Reasoning: How to enrich your data for practical applications including use with RAG & LLMs.</b></p>
 <p>Peter Crocker, Valerio Cocchi and Thomas Vout.</p>
 <p style="font-size: 21px;"><b>Description:</b></p>
-<p>
+<p style="text-align: justify !important;">
 Semantic reasoning is fast becoming a must-have for anyone running a knowledge graph application as a route to better data, faster queries, and ultimately greater insights. With ever-improving
 technology, these benefits are no longer for an exclusive few and are instead widely accessible, and
 yet, many in the industry still lack the knowledge and understanding to fully capture the power of
@@ -89,4 +89,33 @@ build a working solution live in the workshop.
 Discover how this enriched data, coupled with the advanced automation feature of incremental
 reasoning, is enabling real-world applications, including how to enhance RAG and LLM-based
 solutions. For beginners and experts alike, no prior knowledge is required
+</p>
+<br>
+<p style="font-size: 21px; text-align: justify !important;"><b>Modeling product ontologies for industrial KG applications</b></p>
+<p> Prof Dr. Martin Ley, Maximilian Gärber and <a style="text-decoration: none;" target="_blank" href="https://pantopix.com/">Maraike Heim</a>.</p>
+<p style="font-size: 21px;"><b>Description:</b></p>
+<p style="text-align: justify !important;">
+he main purpose of many industrial KG applications is providing the right information to
+the right person at the right time. From an information point of view (i. e. with respect to
+information units and information types,) this goal is supported by iiRDS, the intelligent
+information request and delivery standard. However, information is not “free floating”, but
+typically and necessarily related to a specific product or a specific component of a product.
+Nonetheless, there seems to be no common understanding of how knowledge about a
+product is represented. iiRDS itself only offers so-called “docking points”. This typically
+leads to highly specialized, customized, and even co-existing representations of the product
+domain, making data-interoperability an even greater task. The goal of this tutorial is to
+discuss existing approaches to product ontology modeling from various perspectives such
+as iiRDS, Asset Administration Shell, custom ontologies and/or eClass. The participants aim
+at identifying agreement and/or deviation of existing approaches and ideally seek
+developing the framework for a common approach to the modeling of product ontologies.
+</p>
+
+
+
+<br>
+<p style="font-size: 21px; text-align: justify !important;"><b></b></p>
+<p></p>
+<p style="font-size: 21px;"><b>Description:</b></p>
+<p style="text-align: justify !important;">
+
 </p>
