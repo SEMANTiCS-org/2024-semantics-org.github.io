@@ -28,7 +28,7 @@
 <li><p style="text-align: justify !important;">Fernando Ortiz-Rodríguez, Universidad Autónoma de Tamaulipas</p></li>
 <li><p style="text-align: justify !important;">Ryan Mcgranaghan, NASA Jet Propulsion Laboratory</p></li>
 </ul>
-<p><a style="text-decoration: none; " target="_blank" href="https://sites.google.com/view/3rdnlp4kgc/home">Workshop website</a></p>
+<p><a style="text-decoration: none;  margin: 0 !important" target="_blank" href="https://sites.google.com/view/3rdnlp4kgc/home">Workshop website</a></p>
 <br>
 
 <p style="font-size: 21px;"><b> Large Language Models and Knowledge Graphs unified: use cases and examples</b></p>
@@ -52,8 +52,8 @@ You can expect discussions on use cases like:
 <li><p style="text-align: justify !important;">Ioanna Lytra, Semantic Web Company</p></li>
 <li><p style="text-align: justify !important;">Erwin Folmer, Kadaster, HAN</p></li>
 </ul>
-<br>
-<p><a style="text-decoration: none;" target="_blank" href="https://sites.google.com/view/llmskgs">Workshop website</a></p>
+
+<p><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://sites.google.com/view/llmskgs">Workshop website</a></p>
 <br>
 
 <p style="font-size: 21px;"><b> NXDG: NeXt-Generation Data Governance </b></p>
@@ -65,8 +65,7 @@ You can expect discussions on use cases like:
 <li><p style="text-align: justify !important;">Ruben Verborgh, UGent-imec, Ghent</p></li>
 <li><p style="text-align: justify !important;">Harshvardhan Pandit, ADAPT Centre, Dublin City University</p></li>
 </ul>
-<br>
-<p><a style="text-decoration: none;" target="_blank" href="https://w3id.org/nxdg/2024">Workshop website</a></p>
+<p><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://w3id.org/nxdg/2024">Workshop website</a></p>
 <br>
 <hr>
 
@@ -74,7 +73,7 @@ You can expect discussions on use cases like:
 <br>
 <p style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b>The Ultimate Guide to Semantic Reasoning: How to enrich your data for practical applications including use with RAG & LLMs.</b></p>
 <p style="margin: 0 !important">Peter Crocker, Valerio Cocchi and Thomas Vout.</p>
-<p style="margin: 0 !important"><b>Description:</b></p>
+<p style=""><b>Description:</b></p>
 <p style="text-align: justify !important; margin: 0 !important">
 Semantic reasoning is fast becoming a must-have for anyone running a knowledge graph application as a route to better data, faster queries, and ultimately greater insights. With ever-improving
 technology, these benefits are no longer for an exclusive few and are instead widely accessible, and
