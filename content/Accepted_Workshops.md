@@ -73,7 +73,7 @@ You can expect discussions on use cases like:
 <hr>
 
 # Accepted workshops
-
+<hr>
 <p style="font-size: 21px; text-align: justify !important;"><b>The Ultimate Guide to Semantic Reasoning: How to enrich your data for practical applications including use with RAG & LLMs.</b></p>
 <p>Peter Crocker, Valerio Cocchi and Thomas Vout.</p>
 <p style="font-size: 21px;"><b>Description:</b></p>
