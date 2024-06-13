@@ -17,7 +17,7 @@
 <p style="text-align: justify !important;">Building a domain knowledge graph from a large amount of text requires a tremendous amount of work, including entity recognition, entity disambiguation and relationship extraction. Because of this, more work has been done on automated ways to generate knowledge graphs from text. Recent efforts in NLP (Natural Language Processing) development have shown that semantic deep neural networks can learn the complex syntactic and semantics of the natural language and thus, give more potential for automation even in the most complex domains i.e., legal documents. New approaches to KG development use a combination of extraction methods and state-of-the-art NLP techniques. Additionally, the advancement of Graph Neural Networks (GNNs) are able to learn powerful embeddings which leverage topological structures in the KGs and provide explanations of the outcome. Despite the successes this existing research has achieved, deep learning on graphs for NLP still faces many challenges. Presentation of challenges faced in specific domains such as Science, Sustainability is also welcomed. For instance, in the sciences, the production of resources (e.g., publications) is growing at a rate that outstrips an individual’s capacity to discovery and utilize them. As a result, alongside manual methods to structure and make discoverable that knowledge, automation is vital. We welcome applications that analyze and synthesize large volumes of scientific information (especially scientific literature, notes documents, and dataset metadata) and can use that information to create ontologies and semantic representations that better organize them. We also welcome contributions that address automation components of maintenance of ontologies and knowledge graphs. </p>
 <p style="text-align: justify !important;">This workshop invites contributions on methods and approaches of knowledge and data extraction from text, as well as theoretical and practical aspects of using semantic deep NLP for KG creation and the use of such KG for Graph Neural Network (GNN) tasks.</p>
 
-## Organizers:
+# Organizers:
 <ul>
 <li><p style="text-align: justify !important;">Edlira Vakaj,  Birmingham City University</p></li>
 <li><p style="text-align: justify !important;">Rizou Stamatia, Singular Logic</p></li>
@@ -45,7 +45,7 @@ You can expect discussions on use cases like:
 	<li><p style="text-align: justify !important;">Using LLMs to convert tabular data into graph data</p></li>
 </ul>
 
-## Organizers:
+# Organizers:
 <ul>
 <li><p style="text-align: justify !important;">Marco Brattinga, Ordina</p></li>
 <li><p style="text-align: justify !important;">Ioanna Lytra, Semantic Web Company</p></li>
@@ -58,7 +58,7 @@ You can expect discussions on use cases like:
 # NXDG: NeXt-Generation Data Governance 
 <p style="text-align: justify !important;">It's 2024 and we still can't visit any website without clicking "Yes" on a cookie banner, exchanging access to our most private data for the right to browse around. Managing and enforcing our privacy preferences in a personalised manner is also quite challenging. Additionally, data protection laws are emerging exponentially following in the footsteps of the GDPR. In this context, the NeXt-generation Data Governance 2024 workshop aims to bring together technical, legal and societal researchers, and industry experts to discuss data governance, emergence of data spaces and the impact of the European strategy for data in such systems. The workshop aims to support the development of solutions to manage data, policies and provenance in a trustful and interoperable manner and to aid in the management and reporting of legal documentation falling from the EU’s GDPR for data protection and the DGA, Data Act, AI Act and EHDS to create legally-aligned, AI-powered data ecosystems, using semantic-based specifications such as ODRL, DPV or Solid. As such, this workshop will have presentations and discussions of interest to both data providers and consumers, researchers, standardisation bodies, businesses, and citizens who want to interoperate in the Data Spaces era. </p>
 
-## Organizers:
+# Organizers:
 <ul>
 <li><p style="text-align: justify !important;">Beatriz Esteves, UGent-imec, Ghent</p></li>
 <li><p style="text-align: justify !important;">Ruben Verborgh, UGent-imec, Ghent</p></li>
