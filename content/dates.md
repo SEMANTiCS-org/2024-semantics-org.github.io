@@ -12,7 +12,6 @@
 * **Camera-Ready Paper Deadline**: August 06, 2024
 
 ## Workshops and Tutorials
- <h2>Important Dates</h2>
     <p>Important Dates for Workshops</p>
     <ul>
         <li><b>Proposals WS Deadline:&nbsp;</b><del>March 22</del> March 29th (extended), 2024 (11:59 pm, AoE)</li>
