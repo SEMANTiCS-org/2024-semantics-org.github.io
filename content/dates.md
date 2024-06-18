@@ -12,24 +12,25 @@
 * **Camera-Ready Paper Deadline**: August 06, 2024
 
 ## Workshops and Tutorials
-    <p>Important Dates for Workshops</p>
-    <ul>
-        <li><b>Proposals WS Deadline:&nbsp;</b><del>March 22</del> March 29th (extended), 2024 (11:59 pm, AoE)</li>
-        <li><b>Notification of Acceptance:&nbsp;</b> <del>March 29</del> April 5th (extended), 2024 (11:59 pm, AoE)</li>
-        <li><b>Workshop website is online:&nbsp;</b>April 15th, 2024</li>
-    </ul>
 
-   <p>Suggested Dates for Workshop Organizers (with Call for Papers)</p>
-   <ul>
-       <li><b>Submission WS papers Deadline:&nbsp;</b>June 14, 2024 (11:59 pm, AoE)</li>
-       <li><b>Notification of Acceptance:&nbsp;</b>July 05, 2024 (11:59 pm, AoE)</li>      
-   </ul>
-   <p>Important Dates for Tutorials (and other meetings, e.g. seminars, show-cases, etc., without call for papers):</p>
-   <ul>
-    <li><b>Proposals Tutorial Deadline:&nbsp;</b>June 11, 2024 (11:59 pm, AoE)</li>
-    <li><b>Notification of Acceptance:&nbsp;</b>June 18, 2024 (11:59 pm, AoE)</li>
-   </ul>
-   <br>
+<p>Important Dates for Workshops</p>
+<ul>
+    <li><b>Proposals WS Deadline:&nbsp;</b><del>March 22</del> March 29th (extended), 2024 (11:59 pm, AoE)</li>
+    <li><b>Notification of Acceptance:&nbsp;</b> <del>March 29</del> April 5th (extended), 2024 (11:59 pm, AoE)</li>
+    <li><b>Workshop website is online:&nbsp;</b>April 15th, 2024</li>
+</ul>
+
+<p>Suggested Dates for Workshop Organizers (with Call for Papers)</p>
+<ul>
+    <li><b>Submission WS papers Deadline:&nbsp;</b>June 14, 2024 (11:59 pm, AoE)</li>
+    <li><b>Notification of Acceptance:&nbsp;</b>July 05, 2024 (11:59 pm, AoE)</li>      
+</ul>
+<p>Important Dates for Tutorials (and other meetings, e.g. seminars, show-cases, etc., without call for papers):</p>
+<ul>
+<li><b>Proposals Tutorial Deadline:&nbsp;</b>June 11, 2024 (11:59 pm, AoE)</li>
+<li><b>Notification of Acceptance:&nbsp;</b>June 18, 2024 (11:59 pm, AoE)</li>
+</ul>
+<br>
 
 ## Industry & Use Case Presentations
 * **Submission Deadline**: May 28, 2024
