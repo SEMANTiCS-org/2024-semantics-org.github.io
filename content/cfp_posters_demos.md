@@ -3,7 +3,7 @@
 The Posters & Demos Track provides a platform for researchers to present their latest findings, ongoing projects, and cutting-edge work in progress. This track is open to a range of submissions on innovative applications, the latest results, unpublished ideas, prototypes of semantic technologies, and their use in various domains. It also welcomes contributions related to applications, use cases, and datasets that may attract developers and potential research or business partners. The Posters & Demos Track offers an informal setting that promotes engagement and dialogue between presenters and attendees. These discussions can provide valuable feedback for presenters' future work, while also allowing participants to gain insight into emerging research trends and network with other researchers.
 
 ## Important dates
-* **Paper Submission Deadline**: June 25, 2024
+* **Paper Submission Deadline**: ~~June 25, 2024~~ July 05, 2024
 * **Notification of Acceptance**: July 29, 2024
 * **Camera-Ready Paper Deadline**: August 06, 2024
 

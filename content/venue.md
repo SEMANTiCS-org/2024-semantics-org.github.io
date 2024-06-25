@@ -21,19 +21,58 @@ The Meervaart is one of the best known venues in the Netherlands and offers faci
     <th>Address</th>
     <!--<th>Get a reduced rate until</th>-->
   </tr>
+
+  <tr>
+    <td><a href="https://www.bastionhotels.com/en-gb/hotels/hotel-amsterdam-zuidwest?gad_source=1&gclid=Cj0KCQjw4MSzBhC8ARIsAPFOuyU6bbN81Cucr1iVzsTs2y_3nEIlsZcRUDYCAEmFu5QyJMgaYIiZu8MaAg-QEALw_wcB&gclsrc=aw.ds">Bastion Hotel Amsterdam Zuidwest</a></td>
+    <td>Hendrikje Stoffelstraat 60<br>1058 GC Amsterdam<br><br>+31 (0)20 669 1621<br></td>
+    <!--<td>10.09.2023<br>Please write an email to <a href="mailto:semantics@infai.org ">semantics@infai.org</a></td>-->
+  </tr>
+
+  <tr>
+    <td><a href="https://methotelamsterdam.com/">Met Hotel Amsterdam</a></td>
+    <td>Marius Bauerstraat 401<br>1062 AP Amsterdam<br><br>+31 (0)20 218 4244<br><a href="mailto:reservations@methotelamsterdam.com">reservations@methotelamsterdam.com</a></td>
+    <!--<td>10.09.2023<br>Please write an email to <a href="mailto:semantics@infai.org ">semantics@infai.org</a></td>-->
+  </tr>
+
+  <tr>
+    <td><a href="https://www.citiezhotelamsterdam.com/">Citiez Hotel Amsterdam</a></td>
+    <td>Osdorpplein 372-A<br>1068 EV Amsterdam<br><br>+31 (0)20 224 6280<br><a href="mailto:welcome@citiezhotelamsterdam.com">welcome@citiezhotelamsterdam.com</a></td>
+    <!--<td>10.09.2023<br>Please write an email to <a href="mailto:semantics@infai.org ">semantics@infai.org</a></td>-->
+  </tr>
+
+  <tr>
+    <td><a href="https://conscioushotels.com/stay/amsterdam-city">Conscious Hotel Amsterdam City (The Tire Station)</a></td>
+    <td>Amstelveenseweg 5<br>1054 MB Amsterdam<br><br>+31 (0)20 820 3333<br></td>
+    <!--<td>10.09.2023<br>Please write an email to <a href="mailto:semantics@infai.org ">semantics@infai.org</a></td>-->
+  </tr>
+
+  <tr>
+    <td><a href="https://conscioushotels.com/stay/vondelpark">Conscious Hotel Vondelpark</a></td>
+    <td>Overtoom 519<br>1054 LH Amsterdam<br></td>
+    <!--<td>10.09.2023<br>Please write an email to <a href="mailto:semantics@infai.org ">semantics@infai.org</a></td>-->
+  </tr>
+
+  <tr>
+    <td><a href="https://www.dutchdesignhotelvondelpark.com/">Dutch Design Hotel Vondelpark</a></td>
+    <td>Waldeck Pyrmontlaan 9<br>1075 BT Amsterdam<br><br>+31 (0)20 714 2010<br><a href="mailto:info@dutchdesignhotelvondelpark.com">info@dutchdesignhotelvondelpark.com</a></td>
+    <!--<td>10.09.2023<br>Please write an email to <a href="mailto:semantics@infai.org ">semantics@infai.org</a></td>-->
+  </tr>
+
+  <tr>
+    <td><a href="https://www.mercure-hotel-amsterdam-west.nl/en/">Mercure Hotel Amsterdam West</a></td>
+    <td>Oude Haagseweg 20<br>1066 BW Amsterdam<br><br>+31 (0)20 512 6767<br><a href="mailto:frontoffice@mercureamsterdam.com">frontoffice@mercureamsterdam.com</a></td>
+    <!--<td>10.09.2023<br>Please write an email to <a href="mailto:semantics@infai.org ">semantics@infai.org</a></td>-->
+  </tr>
+
+  <tr>
+    <td><a href="https://www.artemisamsterdam.com/">Dutch Design Hotel Artemis</a></td>
+    <td>John M. Keynesplein 2<br>1066 EP Amsterdam<br><br>+31 (0)20 714 1000<br><a href="mailto:reservations@artemisamsterdam.com">reservations@artemisamsterdam.com</a></td>
+    <!--<td>10.09.2023<br>Please write an email to <a href="mailto:semantics@infai.org ">semantics@infai.org</a></td>-->
+  </tr>
 </table>
 <br>
 
 We have secured contingents in a few hotels in Amsterdam. After you have purchased your Semantics ticket, you will automatically receive an email from the registration system ConfTool containing this list.
-
-### Low-price accommodation
-
-<table>
-  <tr>
-    <th>Hotel</th>
-    <th>Address</th>
-  </tr>
-</table>  
 
 ### Travel
 
