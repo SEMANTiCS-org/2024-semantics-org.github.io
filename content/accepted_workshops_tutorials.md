@@ -70,10 +70,22 @@ You can expect discussions on use cases like:
 </ul>
 <p><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://w3id.org/nxdg/2024">Workshop website</a></p>
 <br>
+
+<p style="font-size: 21px;"><b><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://sites.google.com/view/skgi">First International Workshop on Scaling Knowledge Graphs for Industry</a></b></p>
+<p style="text-align: justify !important;">Knowledge Graphs have been used in industrial settings for many years. However, in many cases the use cases have been limited to storage, integration and information retrieval tasks. We identify the lack of scalable solutions as the main blocker for uptake in more use cases. In this workshop, we want to foster discussion on making knowledge graph systems work at industrial scale. We do explicitly not want to limit this discussion to how much data we can store and query (this is already pretty much working), but also how we can deal with other scalability aspects such as processing, streaming, and ingestion of large amounts of information into a knowledge graph systems.</p>
+
+<p style="font-size: 21px;"><b>Organizers:</b></p>
+<ul>
+<li><p style="text-align: justify !important;">Michael Cochez, Vrije Universiteit, Amsterdam, Netherlands</p></li>
+<li><p style="text-align: justify !important;">Evgeny Kharlamov, Bosch Center for AI / University of Oslo, Germany</p></li>
+<li><p style="text-align: justify !important;">Radu Prodan, University of Klagenfurt, Austria</p></li>
+</ul>
+<p><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://sites.google.com/view/skgi">Workshop website</a></p>
+<br>
 <hr>
 
 # Accepted tutorials
-<p style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b>The Ultimate Guide to Semantic Reasoning: How to enrich your data for practical applications including use with RAG & LLMs.</b></p>
+<p style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://www.oxfordsemantic.tech/events/semantics24-the-ultimate-guide-to-semantic-reasoning-how-to-enrich-your-data-for-practical-applications-including-use-with-rag-llms">The Ultimate Guide to Semantic Reasoning: How to enrich your data for practical applications including use with RAG & LLMs.</a></b></p>
 <p style="margin: 0 !important">Peter Crocker, Valerio Cocchi and Thomas Vout.</p>
 <p style=""><b>Description:</b></p>
 <p style="text-align: justify !important; margin: 0 !important">
@@ -89,6 +101,7 @@ Discover how this enriched data, coupled with the advanced automation feature of
 reasoning, is enabling real-world applications, including how to enhance RAG and LLM-based
 solutions. For beginners and experts alike, no prior knowledge is required
 </p>
+<p><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://www.oxfordsemantic.tech/events/semantics24-the-ultimate-guide-to-semantic-reasoning-how-to-enrich-your-data-for-practical-applications-including-use-with-rag-llms">Tutorial website</a></p>
 <br><br>
 <p style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b>Modeling product ontologies for industrial KG applications</b></p>
 <p  style="margin: 0 !important"> Prof Dr. Martin Ley, Maximilian Gärber and Maraike Heim.</p>
