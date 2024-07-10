@@ -6,7 +6,7 @@ SEMANTiCS 2024 will host the **DBpedia Day** on September 17, 2024 in Amsterdam,
 
 DBpedia provides tools that allow you to create, maintain, improve, integrate and use KGs to build applications, e.g. BBC has created the World Cup 2010 website by interconnecting textual content and facts from their knowledge base. Data provided by DBpedia was greatly involved in creating this knowledge graph.
 
-DBpedia has become a high-impact, high-visibility project because of our foundation in excellent Knowledge Engineering as the pivot point between scientific methods, innovation and industrial-grade output. The drivers behind DBpedia are 4 out of the TOP 10 Most Influential Scholars in Knowledge Engineering and the C-level executives of our members.
+DBpedia has become a high-impact, high-visibility project because of our foundation in excellent Knowledge Engineering as the pivot point between scientific methods, innovation and industrial-grade output. The drivers behind DBpedia are 4 out of the [TOP 10 Most Influential Scholars](https://www.aminer.org/ai2000/ke) in Knowledge Engineering and the C-level executives of our members.
 
 ## Organisation
 * Julia Holze, InfAI, DBpedia Association
@@ -14,17 +14,13 @@ DBpedia has become a high-impact, high-visibility project because of our foundat
 * Sebastian Hellmann, InfAI, DBpedia Association
 
 ## This year's topics
-Linking and Consumption of Linked Data – Since 2007, DBpedia has been the hub of the Linked Open Data Cloud, the largest constantly updating knowledge graph on Earth using Linked Data principles.
-
-By following the 62 million links published alongside the 6.5 million identifiers of the DBpedia Snapshot (https://www.dbpedia.org/blog/dbpedia-snapshot-2022-03-release/), our users could discover and consume more data from the web. Now in 2024, 17 years after the first release, we developed a way to scale up our identifier base into the billions to provide the glue for better linking and consumption of linked data. The main topics of the DBpedia Day will be twofold:
-1. We would like to ask our industrial and academic members as well as the wider community to present the latest technology to discover, query, link, curate and consume Linked Data and Knowledge Graphs.  
-2. We will introduce the Linkmaster 3000 (the new Open Online Link Curation Platform), the Global LD API, the Databus and the Global LD Browser to gather feedback.
+We invite the world’s leading Knowledge Engineering experts to gain insights on the topic “Knowledge Graphs operated by AI”. This event aims to explore how recent advances in AI can leverage and exploit structured knowledge, as well as address new challenges and necessary changes to advance the vision of “Knowledge Graphs operated by AI”. Please find more information at the [Call for Presentations.](https://www.dbpedia.org/blog/cfp-dbpedia-day-2024/)
 
 ## Highlights include
-* Keynote presentations
-* DBpedia Databus presentation
-* DBpedia member presentation
-* DBpedia Community session
+* Keynote presentation “Trust me, I’m a Human” by Ruben Verborgh (Ghent University - imec)
+* Session “Knowledge Graphs for LLMs”
+* Session “LLMs for Knowledge Graphs”
+* Discussion Session on LLMs and Knowledge Graphs
 
 ## Tickets
 DBpedia members get free admission. Please contact your nearest DBpedia chapter for a promotion code, or contact the Head of Organisational Development of the DBpedia Association [Julia Holze](mailto:holze@infai.org).
