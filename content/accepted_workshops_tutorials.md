@@ -105,7 +105,9 @@ solutions. For beginners and experts alike, no prior knowledge is required
 
 <br>
 <br>
-<p style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b>Modeling product ontologies for industrial KG applications</b></p>
+<p style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b>
+<a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://pantopix.com/en/modeling-product-ontologies-for-industrial-kg-applications/">
+Modeling product ontologies for industrial KG applications</a></b></p>
 <p  style="margin: 0 !important"> Prof Dr. Martin Ley, Maximilian Gärber and Maraike Heim.</p>
 <p style=""><b>Description:</b></p>
 <p style="text-align: justify !important; margin: 0 !important">
@@ -123,7 +125,7 @@ as iiRDS, Asset Administration Shell, custom ontologies and/or eClass. The parti
 at identifying agreement and/or deviation of existing approaches and ideally seek
 developing the framework for a common approach to the modeling of product ontologies.
 </p>
-
+<p><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://pantopix.com/en/modeling-product-ontologies-for-industrial-kg-applications/">Tutorial website</a></p>
 
 <br>
 <br>
