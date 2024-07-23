@@ -77,15 +77,6 @@
 					<div class="row">
 						<div class="col-lg-12 mx-auto">
 							<div id="programme_table" class="table-responsive">
-
-								
-<script>
-	fetch('https://script.google.com/macros/s/AKfycbw6oFUNE2dj_gFBLqg8yovqBDhzbXvgNoJtH8rkP37LIZKKiSYpUPdx1Oge__bF_es6bA/exec')
-	.then(response => response.text())
-	.then(data => {
-	document.getElementById('doc-content').innerText = data;
-	});
-	</script>
 							</div>
 						</div>
 					</div>
@@ -370,7 +361,7 @@
 
 				function viewDayProgramme(day) {
 					// Call the function with the textual path of the XLSX file
-					var filePath = '../content/Rooms_Hyperion.xlsx';
+					var filePath = 'https://onedrive.live.com/edit.aspx?resid=73D63C1D64D29F9A!2838&cid=73d63c1d64d29f9a&CT=1721737579274&OR=ItemsView';
 					readXlsxFileFromPath(filePath, day);
 				}
 
