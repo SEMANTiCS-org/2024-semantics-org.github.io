@@ -8,7 +8,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>SEMANTICS-2024</title>
+	<title>SEMANTICS-2023</title>
 
 	<!-- Bootstrap core CSS -->
 	<link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -17,7 +17,7 @@
 	<link href="../css/scrolling-nav.css" rel="stylesheet">
 
 	<link href="../css/style.css" rel="stylesheet">
-	<link rel="icon" href="../img/semantics-logo-browser.ico">
+	<link rel="icon" href="../img/semantics2023-logo-white-browser.ico">
 
 	<link href="../css/programme.css" rel="stylesheet">
 
@@ -76,8 +76,7 @@
 
 					<div class="row">
 						<div class="col-lg-12 mx-auto">
-							<div id="programme_table" class="table-responsive">
-							</div>
+							<div id="programme_table" class="table-responsive"></div>
 						</div>
 					</div>
 
@@ -113,9 +112,7 @@
 	<script src="../js/scrolling-nav.js"></script>
 
 	<script src="../js/xlsx.full.min.js"></script>
-
 	<script>
-		
 				function convertMarkdownLinksToHtml(input) {
 					const markdownLinkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
 					const html = input.replace(markdownLinkRegex, '<a href="$2">$1</a>');
@@ -360,10 +357,10 @@
 				}
 
 				function viewDayProgramme(day) {
-                // Call the function with the textual path of the XLSX file
-                var filePath = 'https://onedrive.live.com/download?cid=73D63C1D64D29F9A&resid=73D63C1D64D29F9A%212838&authkey=!AOcdINSYEwTAPSA';
-                readXlsxFileFromPath(filePath, day);
-                      }
+					// Call the function with the textual path of the XLSX file
+					var filePath = '../content/Rooms_Hyperion.xlsx';
+					readXlsxFileFromPath(filePath, day);
+				}
 
 				function viewLegendProgramme(day) {
 					var legend_index = {
