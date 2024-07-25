@@ -60,9 +60,9 @@
 							</zero-md>
 
 							<div id="buttonGroup" class="btn-group" role="group" aria-label="Button Group">
-							  <button id="button1" type="button" data-param="0" class="btn btn-light active">20 SEPTEMBER<br> (DBpediaDay & Workshops)</button>
-							  <button id="button2" type="button" data-param="1" class="btn btn-light">21 SEPTEMBER<br> (Conference Day 1)</button>
-							  <button id="button3" type="button" data-param="2" class="btn btn-light">22 SEPTEMBER<br> (Conference Day 2)</button>
+							  <button id="button1" type="button" data-param="0" class="btn btn-light active">17 SEPTEMBER<br> (DBpediaDay)</button>
+							  <button id="button2" type="button" data-param="1" class="btn btn-light">18 SEPTEMBER<br> (Conference Day 1)</button>
+							  <button id="button3" type="button" data-param="2" class="btn btn-light">19 SEPTEMBER<br> (Conference Day 2)</button>
 							</div>
 
 						</div>
@@ -359,8 +359,11 @@
 				function viewDayProgramme(day) {
 					// Call the function with the textual path of the XLSX file
 					var filePath = '../content/Rooms_Hyperion.xlsx';
+					//var filePath = 'https://onedrive.live.com/download?cid=73D63C1D64D29F9A&resid=73D63C1D64D29F9A%212838&authkey=!AOcdINSYEwTAPSA';
 					readXlsxFileFromPath(filePath, day);
 				}
+
+
 
 				function viewLegendProgramme(day) {
 					var legend_index = {
