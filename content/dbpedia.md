@@ -22,5 +22,15 @@ We invite the world’s leading Knowledge Engineering experts to gain insights o
 * Session “LLMs for Knowledge Graphs”
 * Discussion Session on LLMs and Knowledge Graphs
 
+### About Ruben Verborgh: 
+I’m a Professor of Decentralized Web Technology at [IDLab](https://www.ugent.be/ea/idlab/en) of Ghent University – imec and a Visiting Fellow at the Oxford Martin School within the University of Oxford. I’m the Head of Data Interoperability at Inrupt and an advisor to other companies. From this hybrid academic and industrial perspective, my professional mission is to support Solid in inspiring, transforming, and reshaping our data-driven society. 
+
+As a computer scientist, I investigate how decentralized knowledge graphs on the Web can lead us into the post-Big Data era, where companies realize that data harvesting as a business model is a dead end. The future consists of lots of small data that is [linked](https://ruben.verborgh.org/blog/2018/12/28/designing-a-linked-data-developer-experience/#backend-independent). [People will be in control](https://ruben.verborgh.org/articles/redecentralizing-the-web/) of where they store their data and with whom they share it, independently of the services they use. I’m researching and implementing technologies that enable us to [effect this socio-economic change](https://ruben.verborgh.org/blog/2020/12/07/a-data-ecosystem-fosters-sustainable-innovation/) on both a local and a global scale.
+
+<div class="d-flex justify-content-between bd-highlight mb-3">
+ <img src="../img/person/ruben-full.jpg" style="max-width:32%; min-width:200px" width="60%" height="auto" alt="">
+</div>
+</br>
+
 ## Tickets
 DBpedia members get free admission. Please contact your nearest DBpedia chapter for a promotion code, or contact the Head of Organisational Development of the DBpedia Association [Julia Holze](mailto:holze@infai.org).
