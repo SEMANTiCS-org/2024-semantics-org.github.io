@@ -86,7 +86,7 @@ You can expect discussions on use cases like:
 <hr>
 
 # Accepted tutorials
-<p style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://www.oxfordsemantic.tech/events/semantics24-the-ultimate-guide-to-semantic-reasoning-how-to-enrich-your-data-for-practical-applications-including-use-with-rag-llms">The Ultimate Guide to Semantic Reasoning: How to enrich your data for practical applications including use with RAG & LLMs.</a></b></p>
+<p id="REAS" style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://www.oxfordsemantic.tech/events/semantics24-the-ultimate-guide-to-semantic-reasoning-how-to-enrich-your-data-for-practical-applications-including-use-with-rag-llms">The Ultimate Guide to Semantic Reasoning: How to enrich your data for practical applications including use with RAG & LLMs.</a></b></p>
 <p style="margin: 0 !important">Peter Crocker, Valerio Cocchi and Thomas Vout.</p>
 <p style=""><b>Description:</b></p>
 <p style="text-align: justify !important; margin: 0 !important">
@@ -106,7 +106,7 @@ solutions. For beginners and experts alike, no prior knowledge is required
 
 <br>
 <br>
-<p style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b>
+<p id="IKGA" style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b>
 <a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://pantopix.com/en/modeling-product-ontologies-for-industrial-kg-applications/">
 Modeling product ontologies for industrial KG applications</a></b></p>
 <p  style="margin: 0 !important"> Prof Dr. Martin Ley, Maximilian Gärber and Maraike Heim.</p>
@@ -130,7 +130,7 @@ developing the framework for a common approach to the modeling of product ontolo
 
 <br>
 <br>
-<p style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://www.semantic-treehouse.nl/blog/semantics-2024/">Semantics in Data Spaces: Semantic Treehouse as Vocabulary Hub.</a></b></p>
+<p id="STVH" style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://www.semantic-treehouse.nl/blog/semantics-2024/">Semantics in Data Spaces: Semantic Treehouse as Vocabulary Hub.</a></b></p>
 <p  style="margin: 0 !important">Jelte Bootsma, Linda Oosterheert and Cornelis Bouter.</p>
 <p style=""><b>Description:</b></p>
 <p style="text-align: justify !important; margin: 0 !important ">
