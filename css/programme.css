@@ -123,6 +123,10 @@ section table td.g-extra {
   color: white;
   background: rgb(180,167,213);
 }
+section table td.g-datathon {
+	color: white;
+	background:  #413852 ;
+  }
 section table td.g-workshop {
   color: white;
   background: rgb(121,179,115);
@@ -236,7 +240,7 @@ section #programme_legend ul li span:first-child{
 }
 
 section .leg-green{
-	background: rgb(121,179,115);
+	background: rgb(179, 115, 115);
 }
 
 section .leg-orange{
