@@ -25,26 +25,37 @@
 	<script type="module" src="../vendor/zero-md-v2/zero-md.min.js"></script>
 
 	<script src="../vendor/jquery/jquery.min.js"></script>
-
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js"></script>
 	<script src="../js/getconf.js"></script>
 	<script src="../js/pcontent.js"></script>
 	<script src="../js/pcsv.js"></script>
+	<style>
+		.column1 {
+
+			padding: 10px;
+		}
+
+		.column2 {
+			background-color: hsl(137, 16%, 92%);
+			padding: 10px;
+		}
+
+		.column3 {
+			background-color: #d4edda;
+			padding: 10px;
+		}
+	</style>
 
 </head>
 
 <body id="page-top">
 
+
+
 	<div id="nav-placeholder">
 
 	</div>
-
-	<script>
-	$(function(){
-		$("#nav-placeholder").load("nav.html", function functionName() {apply_conf_onfunc(update_nav, false);});
-		//$("#sidecol").load("side.html");
-		$("#page-footer").load("footer.html", function functionName() {apply_conf_onfunc(update_footer, false);});
-	});
-	</script>
 
 	<section>
 		<div class="container">
@@ -52,16 +63,63 @@
 				<div class="col-lg-12 mx-auto">
 
 					<div class="row">
-						<div id="docx_browser" class="col-lg-12 mx-auto"></div>
+						<div class="col-lg-12 mx-auto">
+							<div id="tables"></div>
+							<script>
+								$(function () {
+									$("#nav-placeholder").load("nav.html", function functionName() { apply_conf_onfunc(update_nav, false); });
+									//$("#sidecol").load("side.html");
+									$("#page-footer").load("footer.html", function functionName() { apply_conf_onfunc(update_footer, false); });
+								});
+								document.addEventListener('DOMContentLoaded', function () {
+									const filePath = '../content/SEMANTICS24_PD_titles_authors.xlsx';
+									fetch(filePath)
+										.then(response => response.arrayBuffer())
+										.then(data => {
+											const workbook = XLSX.read(data, { type: 'array' });
+											const sheetName = workbook.SheetNames[0];
+											const worksheet = workbook.Sheets[sheetName];
+											const jsonData = XLSX.utils.sheet_to_json(worksheet);
+
+											const groupedData = _.groupBy(jsonData, row => row[Object.keys(row)[0]]);
+
+											displayTables(groupedData);
+										});
+								});
+
+								function displayTables(groupedData) {
+									const container = document.getElementById('tables');
+									container.innerHTML = '';
+
+									Object.keys(groupedData).forEach(group => {
+										const groupData = groupedData[group];
+										let table = `<h3>${group}</h3><table border="1"><tr>`;
+										const keys = Object.keys(groupData[0]).slice(1); // Remove two first cell
+										keys.forEach((key, index) => {
+											table += `<th class="column${index + 1}">${key}</th>`;
+										});
+										table += '</tr>';
+
+										groupData.forEach(row => {
+											table += '<tr>';
+											keys.forEach((key, index) => {
+												table += `<td class="column${index + 1}">${row[key]}</td>`;
+											});
+											table += '</tr>';
+										});
+										table += '</table>';
+										container.innerHTML += table;
+									});
+								}
+							</script>
+
+
+						</div>
 					</div>
-
 				</div>
-				<!--<div class="col-lg-3 mx-auto"><div id="sidecol" /></div>-->
-
 			</div>
 		</div>
 	</section>
-
 	<!-- Footer -->
 	<footer id="page-footer"></footer>
 
@@ -79,36 +137,11 @@
 	<script src="../js/mammoth.browser.min.js"></script>
 	<script>
 
-	const queryString = window.location.search;
-	const urlParams = new URLSearchParams(queryString);
+		const queryString = window.location.search;
+		const urlParams = new URLSearchParams(queryString);
 
-	var docxPath = '../content/programme/posters_demos.docx';
-	var container = document.getElementById('docx_browser');
-
-	// Load the DOCX file
-	fetch(docxPath)
-		.then(function(response) {
-			return response.arrayBuffer();
-		})
-		.then(function(arrayBuffer) {
-			var options = {
-				arrayBuffer: arrayBuffer,
-				styleMap: [
-					"p[style-name='Tiltle'] => h1",
-					"p[style-name='Table'] => table > thead > tr > th:fresh"
-				]
-			};
-
-			// Convert DOCX to HTML using Mammoth.js
-			mammoth.convertToHtml(options).then(function(result) {
-				// Display the converted HTML content in the container
-				container.innerHTML = result.value;
-			});
-		})
-		.catch(function(error) {
-			console.error('Error loading DOCX file:', error);
-		});
-
+		var docxPath = '../content/programme/posters_demos.docx';
+		var container = document.getElementById('docx_browser');
 	</script>
 
 </body>
