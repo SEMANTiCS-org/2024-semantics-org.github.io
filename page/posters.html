@@ -45,6 +45,10 @@
 			background-color: #d4edda;
 			padding: 10px;
 		}
+
+		table th {
+			padding: 10px;
+		}
 	</style>
 
 </head>
@@ -62,12 +66,14 @@
 					<div class="row">
 						<div class="col-lg-12 mx-auto">
 							<div id="tables"></div>
+
 							<script>
 								$(function () {
 									$("#nav-placeholder").load("nav.html", function functionName() { apply_conf_onfunc(update_nav, false); });
 									//$("#sidecol").load("side.html");
 									$("#page-footer").load("footer.html", function functionName() { apply_conf_onfunc(update_footer, false); });
 								});
+
 								document.addEventListener('DOMContentLoaded', function () {
 									const filePath = '../content/SEMANTICS24_PD_titles_authors.xlsx';
 									fetch(filePath)
@@ -78,7 +84,8 @@
 											const worksheet = workbook.Sheets[sheetName];
 											const jsonData = XLSX.utils.sheet_to_json(worksheet);
 
-											const groupedData = _.groupBy(jsonData, row => row[Object.keys(row)[0]]);
+											// Group By Cell 3
+											const groupedData = _.groupBy(jsonData, row => row[Object.keys(row)[3]]);
 
 											displayTables(groupedData);
 										});
@@ -91,7 +98,8 @@
 									Object.keys(groupedData).forEach(group => {
 										const groupData = groupedData[group];
 										let table = `<h3>${group}</h3><table border="1"><tr>`;
-										const keys = Object.keys(groupData[0]).slice(1); // Remove two first cell
+										const keys = Object.keys(groupData[0]).filter((_, index) => index !== 0 && index !== 3); // Remove Cell
+
 										keys.forEach((key, index) => {
 											table += `<th class="column${index + 1}">${key}</th>`;
 										});
@@ -136,4 +144,5 @@
 		var container = document.getElementById('docx_browser');
 	</script>
 </body>
+
 </html>
