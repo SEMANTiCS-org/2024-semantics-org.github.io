@@ -1,7 +1,7 @@
 # Registration
 Join us from September 17 - 19, 2024 in Amsterdam for the leading European conference on Linked Data, Semantic AI and Data Science. We have an inspiring program for industry professionals, decision-makers, researchers and academics. Share experiences, ideas and learn from each other. Cross the boundaries of your domain or dive deeper into your field of expertise.  
 
-**Do not miss our earlybird registration deadline: August 5, 2024.**
+**Do not miss our earlybird registration deadline: August 12, 2024.**
 
 
 <table border="0" cellpadding="0" cellspacing="0" id="sheet0" class="sponsor-tab">
