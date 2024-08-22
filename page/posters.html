@@ -36,12 +36,12 @@
 			padding: 10px;
 		}
 
-		.column2 {
+		.column1 {
 			background-color: hsl(137, 16%, 92%);
 			padding: 10px;
 		}
 
-		.column3 {
+		.column2 {
 			background-color: #d4edda;
 			padding: 10px;
 		}
@@ -98,7 +98,7 @@
 									Object.keys(groupedData).forEach(group => {
 										const groupData = groupedData[group];
 										let table = `<h3>${group}</h3><table border="1"><tr>`;
-										const keys = Object.keys(groupData[0]).filter((_, index) => index !== 0 && index !== 3); // Remove Cell
+										const keys = Object.keys(groupData[0]).filter((_, index) => index !== 0 && index !== 1 && index !== 3); // Remove Cell
 
 										keys.forEach((key, index) => {
 											table += `<th class="column${index + 1}">${key}</th>`;
