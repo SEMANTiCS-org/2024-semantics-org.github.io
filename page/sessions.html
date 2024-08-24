@@ -76,17 +76,6 @@
 
 			</div>
 		</div>
-		<script>
-			document.addEventListener("DOMContentLoaded", function () {
-				var container = document.getElementById("ks_browser");
-				if (container) {
-					var firstH1 = container.querySelector("h1");
-					if (firstH1) {
-						firstH1.textContent = "Session";
-					}
-				}
-			});
-		</script>
 	</section>
 
 	<!-- Footer -->
@@ -104,9 +93,14 @@
 
 	<script src="../vendor/jquery-csv/jquery.csv.min.js"></script>
 
+
 	<script>
 		function callback_doc() {
-			$('h1, h2, h3').each(function () {
+			$('h1').each(function () {
+				var id = 'Sh1';
+				$(this).attr('id', id);
+			});
+			$('h2, h3').each(function () {
 				var id = $(this).text().toLowerCase().replace(/ /g, '_');
 				$(this).attr('id', id);
 			});
@@ -131,7 +125,14 @@
 			}
 		}
 	</script>
-
+	<script>
+		document.addEventListener("DOMContentLoaded", function() {
+		var h1Element = document.getElementById("Sh1");
+		if (h1Element) {
+		h1Element.textContent = "Session";
+		}
+		});
+	</script>
 	<script src="../js/mammoth.browser.min.js"></script>
 	<script>
 
