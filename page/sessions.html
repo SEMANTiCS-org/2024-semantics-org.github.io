@@ -61,17 +61,7 @@
 			$("#page-footer").load("footer.html", function functionName() { apply_conf_onfunc(update_footer, false); });
 		});
 	</script>
-	<script>
-		document.addEventListener("DOMContentLoaded", function () {
-			var container = document.getElementById("ks_browser");
-			if (container) {
-				var firstH1 = container.querySelector("h1");
-				if (firstH1) {
-					firstH1.textContent = "Session";
-				}
-			}
-		});
-	</script>
+
 	<section>
 		<div class="container">
 			<div class="row">
@@ -86,6 +76,17 @@
 
 			</div>
 		</div>
+		<script>
+			document.addEventListener("DOMContentLoaded", function () {
+				var container = document.getElementById("ks_browser");
+				if (container) {
+					var firstH1 = container.querySelector("h1");
+					if (firstH1) {
+						firstH1.textContent = "Session";
+					}
+				}
+			});
+		</script>
 	</section>
 
 	<!-- Footer -->
