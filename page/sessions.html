@@ -100,6 +100,16 @@
 				var id = 'Sh1';
 				$(this).attr('id', id);
 			});
+			document.addEventListener("DOMContentLoaded", function () {
+				changeH1Content();
+			});
+
+			function changeH1Content() {
+				var h1Element = document.getElementById("Sh1");
+				if (h1Element) {
+					h1Element.textContent = "Session";
+				}
+			}
 			$('h2, h3').each(function () {
 				var id = $(this).text().toLowerCase().replace(/ /g, '_');
 				$(this).attr('id', id);
@@ -126,13 +136,15 @@
 		}
 	</script>
 	<script>
-		document.addEventListener("DOMContentLoaded", function() {
-		var h1Element = document.getElementById("Sh1");
-		if (h1Element) {
-		h1Element.textContent = "Session";
-		}
+		document.addEventListener("DOMContentLoaded", function () {
+			var h1Element = document.getElementById("Sh1");
+			if (h1Element) {
+				h1Element.textContent = "Session";
+			}
 		});
 	</script>
+
+
 	<script src="../js/mammoth.browser.min.js"></script>
 	<script>
 
