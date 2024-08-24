@@ -32,15 +32,17 @@
 	<style>
 		p:not(:has(img)) {
 			text-align: justify !important;
-			
+
 		}
+
 		td p:not(:has(img)) {
 			padding: 0 30px 0 30px;
 		}
-		table{
+
+		table {
 			width: 100% !important;
-			
-			
+
+
 		}
 	</style>
 
@@ -53,19 +55,22 @@
 	</div>
 
 	<script>
-	$(function(){
-		$("#nav-placeholder").load("nav.html", function functionName() {apply_conf_onfunc(update_nav, false);});
-		//$("#sidecol").load("side.html");
-		$("#page-footer").load("footer.html", function functionName() {apply_conf_onfunc(update_footer, false);});
-	});
+		$(function () {
+			$("#nav-placeholder").load("nav.html", function functionName() { apply_conf_onfunc(update_nav, false); });
+			//$("#sidecol").load("side.html");
+			$("#page-footer").load("footer.html", function functionName() { apply_conf_onfunc(update_footer, false); });
+		});
 	</script>
-<script>
-	document.addEventListener("DOMContentLoaded", function() {
-	var firstH1 = document.querySelector("h1");
-	if (firstH1) {
-	firstH1.textContent = "Session";
-	}
-	});
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			var container = document.getElementById("ks_browser");
+			if (container) {
+				var firstH1 = container.querySelector("h1");
+				if (firstH1) {
+					firstH1.textContent = "Session";
+				}
+			}
+		});
 	</script>
 	<section>
 		<div class="container">
@@ -100,31 +105,31 @@
 
 	<script>
 		function callback_doc() {
-				$('h1, h2, h3').each(function () {
-						var id = $(this).text().toLowerCase().replace(/ /g, '_');
-						$(this).attr('id', id);
-				});
+			$('h1, h2, h3').each(function () {
+				var id = $(this).text().toLowerCase().replace(/ /g, '_');
+				$(this).attr('id', id);
+			});
 
-				$('section table tr').each(function () {
-					var last_td = $(this).parent().find('th:last-child');
-					if (last_td.find('img').length == 0) {
-						$(this).addClass('full-bio');
-						$(this).parent().parent().addClass('full-bio');
+			$('section table tr').each(function () {
+				var last_td = $(this).parent().find('th:last-child');
+				if (last_td.find('img').length == 0) {
+					$(this).addClass('full-bio');
+					$(this).parent().parent().addClass('full-bio');
+				}
+			});
+
+			// Scroll to the target element if it exists
+			if (window.location.hash) {
+				var hash = window.location.hash.substring(1);
+				var targetElement = document.getElementById(hash);
+				setTimeout(function () {
+					if (targetElement) {
+						targetElement.scrollIntoView({ behavior: 'smooth' });
 					}
-				});
-
-				// Scroll to the target element if it exists
-        if (window.location.hash) {
-					var hash = window.location.hash.substring(1);
-					var targetElement = document.getElementById(hash);
-					setTimeout(function() {
-							if (targetElement) {
-									targetElement.scrollIntoView({ behavior: 'smooth' });
-							}
-					}, 100);
-        }
+				}, 100);
+			}
 		}
-  </script>
+	</script>
 
 	<script src="../js/mammoth.browser.min.js"></script>
 	<script>
@@ -134,34 +139,34 @@
 		const urlParams = new URLSearchParams(queryString);
 		const page = urlParams.get('page');
 
-	  // Replace 'path/to/document.docx' with the actual path to your DOCX file
-	  var docxPath = '../content/programme/'+page+'.docx';
-	  var container = document.getElementById('ks_browser');
+		// Replace 'path/to/document.docx' with the actual path to your DOCX file
+		var docxPath = '../content/programme/' + page + '.docx';
+		var container = document.getElementById('ks_browser');
 
-	  // Load the DOCX file
-	  fetch(docxPath)
-	    .then(function(response) {
-	      return response.arrayBuffer();
-	    })
-	    .then(function(arrayBuffer) {
-	      var options = {
+		// Load the DOCX file
+		fetch(docxPath)
+			.then(function (response) {
+				return response.arrayBuffer();
+			})
+			.then(function (arrayBuffer) {
+				var options = {
 					arrayBuffer: arrayBuffer,
 					styleMap: [
-	          "p[style-name='Tiltle'] => h1",
+						"p[style-name='Tiltle'] => h1",
 						"p[style-name='Table'] => table > thead > tr > th:fresh"
-	        ]
+					]
 				};
 
-	      // Convert DOCX to HTML using Mammoth.js
-	      mammoth.convertToHtml(options).then(function(result) {
-	        // Display the converted HTML content in the container
-	        container.innerHTML = result.value;
+				// Convert DOCX to HTML using Mammoth.js
+				mammoth.convertToHtml(options).then(function (result) {
+					// Display the converted HTML content in the container
+					container.innerHTML = result.value;
 					callback_doc();
-	      });
-	    })
-	    .catch(function(error) {
-	      console.error('Error loading DOCX file:', error);
-	    });
+				});
+			})
+			.catch(function (error) {
+				console.error('Error loading DOCX file:', error);
+			});
 
 		//generate ks extra materials (if any)
 		//apply_conf_onfunc(build_ks_att, false);
