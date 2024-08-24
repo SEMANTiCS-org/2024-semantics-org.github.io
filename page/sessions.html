@@ -59,7 +59,14 @@
 		$("#page-footer").load("footer.html", function functionName() {apply_conf_onfunc(update_footer, false);});
 	});
 	</script>
-
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+	var firstH1 = document.querySelector("h1");
+	if (firstH1) {
+	firstH1.textContent = "Session";
+	}
+	});
+	</script>
 	<section>
 		<div class="container">
 			<div class="row">
