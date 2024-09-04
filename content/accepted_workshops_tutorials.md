@@ -87,7 +87,7 @@ You can expect discussions on use cases like:
 
 # Accepted tutorials
 <p id="REAS" style="font-size: 21px; text-align: justify !important; margin: 0 !important"><b><a style="text-decoration: none; margin: 0 !important" target="_blank" href="https://www.oxfordsemantic.tech/events/semantics24-the-ultimate-guide-to-semantic-reasoning-how-to-enrich-your-data-for-practical-applications-including-use-with-rag-llms">The Ultimate Guide to Semantic Reasoning: How to enrich your data for practical applications including use with RAG & LLMs.</a></b></p>
-<p style="margin: 0 !important">Peter Crocker, Valerio Cocchi and Thomas Vout.</p>
+<p style="margin: 0 !important">Peter Crocker and Thomas Vout.</p>
 <p style=""><b>Description:</b></p>
 <p style="text-align: justify !important; margin: 0 !important">
 Semantic reasoning is fast becoming a must-have for anyone running a knowledge graph application as a route to better data, faster queries, and ultimately greater insights. With ever-improving
