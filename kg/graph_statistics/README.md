@@ -25,6 +25,6 @@ From the current folder: `python generate_stats.py`
 - Papers storing data in GitHub:  2
 
 <p align="center">
- <img src="./plots/research.png" alt="research papers" width="250"/>
- <img src="./plots/posters.png" alt="research papers" width="250"/>
+ <img src="./plots/research.png" alt="research papers" width="40%"/>
+ <img src="./plots/posters.png" alt="research papers" width="40%"/>
 </p>
