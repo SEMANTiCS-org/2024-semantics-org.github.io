@@ -1,8 +1,10 @@
-## Semantics 2023 mappings
+## Semantics 2024 mappings
 
-This folder contains the documentation for generating the KG for Semantics 2023 conference and the corresponding web pages with the program.
+This folder contains the documentation for generating the KG for Semantics 2024 conference and the corresponding web pages with the program.
 
-**Author:** Daniel Garijo, Ontology Engineering Group, Universidad Politécnica de Madrid.
+**Author:** Ana Iglesias-Molina, Ontology Engineering Group, Universidad Politécnica de Madrid.
+
+**Contributor:** Daniel Garijo, Ontology Engineering Group, Universidad Politécnica de Madrid.
 
 **License:** This work has a [CC-BY 4.0 International license](https://creativecommons.org/licenses/by/4.0/legalcode).
 
