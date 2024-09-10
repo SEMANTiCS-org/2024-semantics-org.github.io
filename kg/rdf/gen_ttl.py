@@ -47,6 +47,6 @@ for row in results:
     retrieve_properties_recursive(subject)
 
 # Serialize the result to a .ttl file
-result_graph.serialize("out_track_research.ttl", format="turtle")
-#result_graph.serialize("out_track_posters.ttl", format="turtle")
-#result_graph.serialize("out_track_industry.ttl", format="turtle")
+result_graph.serialize("out_track_research.ttl", format="turtle")  # Track 2
+#result_graph.serialize("out_track_posters.ttl", format="turtle")  # Track 3
+#result_graph.serialize("out_track_industry.ttl", format="turtle")  # Track 5

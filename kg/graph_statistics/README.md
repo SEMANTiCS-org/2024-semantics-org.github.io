@@ -3,7 +3,8 @@
 The script `generate_stats.py` generates statistics on the Semantics 2024 KG. It will also serialize the KG in TTL.
 
 ## Requirements
-rdflib
+* rdflib
+* matplotlib
 
 ## Running scripe
 From the current folder: `python generate_stats.py`
@@ -22,3 +23,8 @@ From the current folder: `python generate_stats.py`
 - Resources with DOIs:  7
 - Papers with resources with DOIs:  5
 - Papers storing data in GitHub:  2
+
+<p align="center">
+ <img src="./plots/research.png" alt="research papers" width="250"/>
+ <img src="./plots/posters.png" alt="research papers" width="250"/>
+</p>
