@@ -48,5 +48,5 @@ for row in results:
 
 # Serialize the result to a .ttl file
 result_graph.serialize("out_track_research.ttl", format="turtle")
-#result_graph.serialize("out_track_p&d.ttl", format="turtle")
+#result_graph.serialize("out_track_posters.ttl", format="turtle")
 #result_graph.serialize("out_track_industry.ttl", format="turtle")
