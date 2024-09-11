@@ -12,7 +12,7 @@ From the current folder: `python generate_stats.py`
 ## Statistics results:
 - Number of accepted papers (Research, Industry, Posters and Demos):  73
 - Number of papers with resources: 45
-- Papers with datasets, with code or ontologies:
+- Papers with resources:
     - Software Source Code: 42
     - Ontology: 8
     - Demo: 14

@@ -59,7 +59,7 @@ SELECT (count(distinct ?resource) as ?c) ?type  WHERE {
 }group by ?type
   ''', initNs = { "schema":schema, "okn":okn})
 
-print("Papers with datasets, with code or ontologies:")
+print("Papers with resources:")
 for r in g.query(q1):
   print(r.type, r.c)
 

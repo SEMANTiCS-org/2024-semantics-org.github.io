@@ -72,6 +72,7 @@ html_page_start = """
 							<zero-md src="../content/accepted_papers.md">
 								<template><link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/><link href="../css/md-style.css" rel="stylesheet"/></template>
 							</zero-md>
+							<a href="../kg/rdf/out_track_[TRACK_NAME].ttl" style="font-size: 12pt" type="button" class="btn btn-primary">Download RDF</a>
 				</div>
 			</div>
 
@@ -193,6 +194,8 @@ def get_template(paper_uri, title, authors, image, url):
     code = []
     demo = []
     ontology = []
+    orkg_comparison = []
+    orkg_paper = []
     for resource in g.query(q2):
         type = resource.t
         resource_card = template_resource_start.replace("[VALUE]",resource.url)
@@ -211,8 +214,12 @@ def get_template(paper_uri, title, authors, image, url):
             code.append(resource_card)
         elif "Ontology" in type:
             ontology.append(resource_card)
-        elif "Application" in type:
+        elif "Demo" in type:
             demo.append(resource_card)
+        elif "Comparison" in type:
+            orkg_comparison.append(resource_card)
+        elif "Paper" in type:
+            orkg_paper.append(resource_card)
 
     if len(code) > 0:
         string_to_return += template_resource_list_start.replace("RESOURCE_TYPE", "Code")
@@ -234,6 +241,16 @@ def get_template(paper_uri, title, authors, image, url):
         for c in demo:
             string_to_return += c
         string_to_return += template_resource_list_end
+    if len(orkg_paper) > 0:
+        string_to_return += template_resource_list_start.replace("RESOURCE_TYPE", "ORKG Paper")
+        for c in orkg_paper:
+            string_to_return += c
+        string_to_return += template_resource_list_end
+    if len(orkg_comparison) > 0:
+        string_to_return += template_resource_list_start.replace("RESOURCE_TYPE", "ORKG Comparison")
+        for c in orkg_comparison:
+            string_to_return += c
+        string_to_return += template_resource_list_end
 
 
     return  string_to_return + template_card_end
@@ -244,7 +261,14 @@ def write_html(location, cards):
     Contents are saved at the location
     """
     with open(location, 'w') as file:
-        html = html_page_start
+        if 'research' in location:
+            html = html_page_start.replace("[TRACK_NAME]", "research")
+        elif 'posters' in location:
+            html = html_page_start.replace("[TRACK_NAME]", "posters")
+        elif 'industry' in location:
+            html = html_page_start.replace("[TRACK_NAME]", "industry")
+
+        #html = html_page_start
         count = 0
         for c in cards:
             if count % 3 == 0:
