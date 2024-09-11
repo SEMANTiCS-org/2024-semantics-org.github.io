@@ -877,8 +877,7 @@ Knowledge Graph Construction""" ;
     schema:hasPart <https://w3id.org/okn/semantics/i/Dataset_184_5>,
         <https://w3id.org/okn/semantics/i/Demo_184_7>,
         <https://w3id.org/okn/semantics/i/Demo_184_7_1>,
-        <https://w3id.org/okn/semantics/i/SoftwareSourceCode_184_4>,
-        <https://w3id.org/okn/semantics/i/SoftwareSourceCode_184_4_1> ;
+        <https://w3id.org/okn/semantics/i/SoftwareSourceCode_184_4> ;
     schema:isPartOf <https://w3id.org/okn/semantics/i/Track_3> ;
     schema:keywords """Data schema
 Schema visualization
@@ -1005,7 +1004,8 @@ This work proposes a novel approach that leverages LLMs for topic classification
         <https://w3id.org/okn/semantics/i/Author_208>,
         <https://w3id.org/okn/semantics/i/Author_209>,
         <https://w3id.org/okn/semantics/i/Author_210> ;
-    schema:hasPart <https://w3id.org/okn/semantics/i/SoftwareSourceCode_30_4> ;
+    schema:hasPart <https://w3id.org/okn/semantics/i/ORKGPaper_30_8>,
+        <https://w3id.org/okn/semantics/i/SoftwareSourceCode_30_4> ;
     schema:isPartOf <https://w3id.org/okn/semantics/i/Track_2> ;
     schema:keywords """Large Language Models
 Metadata
@@ -1247,7 +1247,8 @@ Our results suggest feasibility of solving of the proposed task with the modern 
         <https://w3id.org/okn/semantics/i/Author_339>,
         <https://w3id.org/okn/semantics/i/Author_340>,
         <https://w3id.org/okn/semantics/i/Author_341> ;
-    schema:hasPart <https://w3id.org/okn/semantics/i/SoftwareSourceCode_75_4> ;
+    schema:hasPart <https://w3id.org/okn/semantics/i/ORKGComparison_75_8>,
+        <https://w3id.org/okn/semantics/i/SoftwareSourceCode_75_4> ;
     schema:isPartOf <https://w3id.org/okn/semantics/i/Track_2> ;
     schema:keywords """Large Language Models
 Prompt Engineering
@@ -1367,7 +1368,8 @@ Findings: The use of MMDIO substantially enhanced the organization, accessibilit
 Value: The proposed MMDIO framework advances digital humanities research by increasing data semantic richness and interoperability, establishing the foundation for future research in cultural heritage preservation. Moreover, it demonstrates the value of adapted frameworks for handling complex data environments in particular research fields.\"""" ;
     schema:author <https://w3id.org/okn/semantics/i/Author_370>,
         <https://w3id.org/okn/semantics/i/Author_371> ;
-    schema:hasPart <https://w3id.org/okn/semantics/i/Ontology_87_6> ;
+    schema:hasPart <https://w3id.org/okn/semantics/i/ORKGComparison_87_8>,
+        <https://w3id.org/okn/semantics/i/Ontology_87_6> ;
     schema:isPartOf <https://w3id.org/okn/semantics/i/Track_2> ;
     schema:keywords """Data Integration
 Digital Resource Collection
@@ -1387,7 +1389,8 @@ Our approach relies on (i) reindex sponsored entities by bid value to ensure the
         <https://w3id.org/okn/semantics/i/Author_373>,
         <https://w3id.org/okn/semantics/i/Author_374>,
         <https://w3id.org/okn/semantics/i/Author_47> ;
-    schema:hasPart <https://w3id.org/okn/semantics/i/SoftwareSourceCode_88_4> ;
+    schema:hasPart <https://w3id.org/okn/semantics/i/ORKGComparison_88_8>,
+        <https://w3id.org/okn/semantics/i/SoftwareSourceCode_88_4> ;
     schema:isPartOf <https://w3id.org/okn/semantics/i/Track_2> ;
     schema:keywords """Web of Data
 Data Monetisation
@@ -4432,6 +4435,32 @@ Query Processing""" ;
     schema:name "GNU AFFERO GENERAL PUBLIC LICENSE 3.0" ;
     schema:url "https://www.gnu.org/licenses/agpl-3.0.en.html" .
 
+<https://w3id.org/okn/semantics/i/ORKGComparison_75_8> a schema:ORKGComparison ;
+    schema:description "Comparing research papers that tackle the problem of taxonomy expansion" ;
+    schema:identifier "https://doi.org/10.48366/R722259"^^xsd:anyURI ;
+    schema:license <https://w3id.org/okn/semantics/i/License/CC0%201.0%20Universal> ;
+    schema:name "Comparison on Taxonomy expansion " ;
+    schema:url "https://orkg.org/comparison/R722259" .
+
+<https://w3id.org/okn/semantics/i/ORKGComparison_87_8> a schema:ORKGComparison ;
+    schema:description "Advancing the Study of Medieval Manuscripts: A Comparative Analysis of Ontological Frameworks with a Focus on Integrating Heterogeneous Data Sources " ;
+    schema:identifier "https://doi.org/10.48366/R721525"^^xsd:anyURI ;
+    schema:license <https://w3id.org/okn/semantics/i/License/CC0%201.0%20Universal> ;
+    schema:name "Comparison on ontological frameworks" ;
+    schema:url "https://orkg.org/comparison/R721525" .
+
+<https://w3id.org/okn/semantics/i/ORKGComparison_88_8> a schema:ORKGComparison ;
+    schema:description "Comparison of Related Work of \"Enabling Delayed-Answer Auctions for RDF Knowledge Graphs Monetisation\" " ;
+    schema:identifier "https://doi.org/10.48366/R722823"^^xsd:anyURI ;
+    schema:license <https://w3id.org/okn/semantics/i/License/CC0%201.0%20Universal> ;
+    schema:name "Comparison on related work" ;
+    schema:url "https://orkg.org/comparison/R722823" .
+
+<https://w3id.org/okn/semantics/i/ORKGPaper_30_8> a schema:ORKGPaper ;
+    schema:license <https://w3id.org/okn/semantics/i/License/CC0%201.0%20Universal> ;
+    schema:name "ORKG Paper" ;
+    schema:url "https://orkg.org/paper/R703708/R703713" .
+
 <https://w3id.org/okn/semantics/i/Ontology_154_6> a schema:Ontology ;
     schema:description "The ABECTO Vocabulary (AV) is a vocabulary for the description of execution plans and results of the ABox Evaluation and Comparison Tool for Ontologies (ABECTO)." ;
     schema:license <https://w3id.org/okn/semantics/i/License/CC%20BY%204.0%20International> ;
@@ -4589,12 +4618,6 @@ Query Processing""" ;
     schema:license <https://w3id.org/okn/semantics/i/License/MIT%20License> ;
     schema:name "ViziQuer" ;
     schema:url "https://github.com/LUMII-Syslab/viziquer" .
-
-<https://w3id.org/okn/semantics/i/SoftwareSourceCode_184_4_1> a schema:SoftwareSourceCode ;
-    schema:description "The Data Shape Server serves a stored knowledge graph schema information (e.g., the classes, the properties and their connections) to a client that can use it, e.g., in autocompletion of SPARQL queries over the data set with the corresponding schema. The Data Shape Server is used in the context of ViziQuer tool (https://github.com/LUMII-Syslab/viziquer) to support auto-completion of visual queries over RDF databases." ;
-    schema:license <https://w3id.org/okn/semantics/i/License/MIT%20License> ;
-    schema:name "Data Shape Server" ;
-    schema:url "https://github.com/LUMII-Syslab/data-shape-server" .
 
 <https://w3id.org/okn/semantics/i/SoftwareSourceCode_187_4> a schema:SoftwareSourceCode ;
     schema:description "In this demo, we present an approach for post-hoc explainability within component-based AI-enhanced software systems, i.e. the explainability of the behavior of components in general (not limited to AI models). To do this, we rely on the system’s data that was processed and/or is reflecting the intermediate processing steps. Accordingly, (post-hoc) explanations are created for each component, regardless of whether or not it is a black-box component." ;

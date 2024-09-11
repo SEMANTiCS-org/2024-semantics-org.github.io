@@ -13,15 +13,17 @@ From the current folder: `python generate_stats.py`
 - Number of accepted papers (Research, Industry, Posters and Demos):  73
 - Number of papers with resources: 45
 - Papers with datasets, with code or ontologies:
-    - Software Source Code: 43
+    - Software Source Code: 42
     - Ontology: 8
     - Demo: 14
     - Dataset: 17
-- Resources with license:  39
-- Papers with resources with license:  25
+    - ORKG Comparison: 3
+    - ORKG Paper: 1
+- Resources with license:  42
+- Papers with resources with license:  30
 - Papers with no license in some resource:  28
-- Resources with DOIs:  7
-- Papers with resources with DOIs:  5
+- Resources with DOIs:  10
+- Papers with resources with DOIs:  8
 - Papers storing data in GitHub:  2
 
 <p align="center">
