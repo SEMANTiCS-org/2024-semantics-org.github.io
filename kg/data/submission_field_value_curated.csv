@@ -36,7 +36,7 @@ submission;field;field_name;value;license;license_url;name;type;description;doi
 30;2;Student;;;;;;;
 30;3;Publication Resources;Yes;;;;;;
 30;4;Code Availability;https://github.com/ritamargherita/LLMs-topic-classification;CC0 1.0 Universal;https://creativecommons.org/publicdomain/zero/1.0/;LLMs-topic-classification;SoftwareSourceCode;Topic classification of short sentences using LLMs;
-30;8;ORKG;;;;;;;
+30;8;ORKG;https://orkg.org/paper/R703708/R703713;CC0 1.0 Universal;https://creativecommons.org/publicdomain/zero/1.0/;ORKG Paper;ORKGPaper;;
 35;1;Paper Type;Full;;;;;;
 35;2;Student;;;;;;;
 35;3;Publication Resources;Yes;;;;;;
@@ -127,7 +127,7 @@ submission;field;field_name;value;license;license_url;name;type;description;doi
 75;4;Code Availability;https://anonymous.4open.science/r/te_experiments-7DB5;;;Taxonomy Expansion experiments;SoftwareSourceCode;;
 75;5;Data Availability;;;;;;;
 75;6;Ontology Availability;;;;;;;
-75;8;ORKG;;;;;;;
+75;8;ORKG;https://orkg.org/comparison/R722259;CC0 1.0 Universal;https://creativecommons.org/publicdomain/zero/1.0/;Comparison on Taxonomy expansion ;ORKGComparison;Comparing research papers that tackle the problem of taxonomy expansion;https://doi.org/10.48366/R722259
 76;1;Paper Type;Full;;;;;;
 76;2;Student;;;;;;;
 76;3;Publication Resources;No;;;;;;
@@ -169,14 +169,14 @@ submission;field;field_name;value;license;license_url;name;type;description;doi
 87;4;Code Availability;;;;;;;
 87;5;Data Availability;;;;;;;
 87;6;Ontology Availability;https://figshare.com/s/37cb2af111d2c5dc2230;CC BY 4.0 International;https://creativecommons.org/licenses/by/4.0/legalcode;MMDIO;Ontology;MMDIO, an OWL 2 DL ontology, provides a detailed structure to represent medieval manuscript information from diverse sources.;
-87;8;ORKG;;;;;;;
+87;8;ORKG;https://orkg.org/comparison/R721525;CC0 1.0 Universal;https://creativecommons.org/publicdomain/zero/1.0/;Comparison on ontological frameworks;ORKGComparison;Advancing the Study of Medieval Manuscripts: A Comparative Analysis of Ontological Frameworks with a Focus on Integrating Heterogeneous Data Sources ;https://doi.org/10.48366/R721525
 88;1;Paper Type;Full;;;;;;
 88;2;Student;;;;;;;
 88;3;Publication Resources;Yes;;;;;;
 88;4;Code Availability;https://anonymous.4open.science/r/auction-pap-E464/README.md;;;auction-pap;SoftwareSourceCode;This is the source code for the delayed auction implementation experiments.;
 88;5;Data Availability;;;;;;;
 88;6;Ontology Availability;;;;;;;
-88;8;ORKG;;;;;;;
+88;8;ORKG;https://orkg.org/comparison/R722823;CC0 1.0 Universal;https://creativecommons.org/publicdomain/zero/1.0/;Comparison on related work;ORKGComparison;"Comparison of Related Work of ""Enabling Delayed-Answer Auctions for RDF Knowledge Graphs Monetisation"" ";https://doi.org/10.48366/R722823
 135;2;Student;;;;;;;
 135;3;Publication Resources;Yes;;;;;;
 135;4;Code Availability;https://github.com/parklize/LLM4SPARQL;;;LLM4SPARQL;SoftwareSourceCode;;
@@ -327,7 +327,7 @@ submission;field;field_name;value;license;license_url;name;type;description;doi
 184;2;Student;;;;;;;
 184;3;Publication Resources;Yes;;;;;;
 184;4;Code Availability;https://github.com/LUMII-Syslab/viziquer;MIT License;http://choosealicense.com/licenses/mit/;ViziQuer;SoftwareSourceCode;The aim of the ViziQuer project is to provide visual/diagrammatic environment for ontology-based data query definition and execution.;
-184;4_1;Code Availability;https://github.com/LUMII-Syslab/data-shape-server;MIT License;http://choosealicense.com/licenses/mit/;Data Shape Server;SoftwareSourceCode;The Data Shape Server serves a stored knowledge graph schema information (e.g., the classes, the properties and their connections) to a client that can use it, e.g., in autocompletion of SPARQL queries over the data set with the corresponding schema. The Data Shape Server is used in the context of ViziQuer tool (https://github.com/LUMII-Syslab/viziquer) to support auto-completion of visual queries over RDF databases.;
+184;4_1;Code Availability;https://github.com/LUMII-Syslab/data-shape-server;MIT License;http://choosealicense.com/licenses/mit/;Data Shape Server;;The Data Shape Server serves a stored knowledge graph schema information (e.g., the classes, the properties and their connections) to a client that can use it, e.g., in autocompletion of SPARQL queries over the data set with the corresponding schema. The Data Shape Server is used in the context of ViziQuer tool (https://github.com/LUMII-Syslab/viziquer) to support auto-completion of visual queries over RDF databases.;
 184;5;Data Availability;https://viziquer.lumii.lv/dss/resources/vq_playground.pgsql.gz;;;ViziQuer playground schema database;Dataset;;
 184;6;Ontology Availability;;;;;;;
 184;7;Demo link;https://viziquer.app;;;ViziQuer App;Demo;;

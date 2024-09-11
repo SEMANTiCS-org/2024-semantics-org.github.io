@@ -106,7 +106,7 @@ https://opendata.cbs.nl/statline/portal.html?_catalog=CBS&_la=en&tableId=37789en
 https://opendata.cbs.nl/statline/portal.html?_catalog=CBS&_la=en&tableId=81156eng&_theme=1173 ; Trade and industry; finance, SIC 2008
 (Ontology Availability) https://vocabularies.cessda.eu/vocabulary/TopicClassification ; 
 CESSDA Controlled Vocabulary for CESSDA Topic Classification
-(ORKG) ","Large Language Models
+(ORKG) https://orkg.org/paper/R703708/R703713","Large Language Models
 Metadata
 FAIR Guiding Principles
 Retrieval Augmented Generation
@@ -284,7 +284,7 @@ Value: Our approach can be used to generate verbalizations of answers from diffe
 (Code Availability) https://anonymous.4open.science/r/te_experiments-7DB5
 (Data Availability) 
 (Ontology Availability) 
-(ORKG) ","Large Language Models
+(ORKG) https://doi.org/10.48366/R722259","Large Language Models
 Prompt Engineering
 Taxonomy Expansion",accept,yes,yes,"This paper presents an exploratory study that investigates the use of various Large Language Models (LLMs) for the task of taxonomy expansion. 
 Our objective is to enhance the taxonomical structure by querying LLMs for (1) child taxons and (2) alternative labels of existing taxons. Beginning with an incomplete taxonomy, we explore the most effective ways to prompt LLMs exploiting explicit and shared knowledge captured in manually curated taxonomies to provide context for the task at hand. We experiment with different prompting templates, well-recognized taxonomies (EuroVoc, STW, UNESCO), and popular language models (Claude, Claude3, Llama2).
@@ -373,7 +373,7 @@ Value: The proposed approach facilitates the detailed management of the relation
 (Code Availability) https://figshare.com/s/37cb2af111d2c5dc2230
 (Data Availability) 
 (Ontology Availability) 
-(ORKG) ","Data Integration
+(ORKG) https://doi.org/10.48366/R721525","Data Integration
 Digital Resource Collection
 Medieval Manuscript Data Integration Ontology (MMDIO)
 MeLOn Methodology
@@ -391,7 +391,7 @@ Value: The proposed MMDIO framework advances digital humanities research by incr
 (Code Availability) https://anonymous.4open.science/r/auction-pap-E464/README.md
 (Data Availability) 
 (Ontology Availability) 
-(ORKG) ","Web of Data
+(ORKG) https://doi.org/10.48366/R722823","Web of Data
 Data Monetisation
 Auction models
 Knowledge Graphs

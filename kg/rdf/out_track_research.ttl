@@ -120,7 +120,8 @@ This work proposes a novel approach that leverages LLMs for topic classification
         <https://w3id.org/okn/semantics/i/Author_208>,
         <https://w3id.org/okn/semantics/i/Author_209>,
         <https://w3id.org/okn/semantics/i/Author_210> ;
-    schema:hasPart <https://w3id.org/okn/semantics/i/SoftwareSourceCode_30_4> ;
+    schema:hasPart <https://w3id.org/okn/semantics/i/ORKGPaper_30_8>,
+        <https://w3id.org/okn/semantics/i/SoftwareSourceCode_30_4> ;
     schema:isPartOf <https://w3id.org/okn/semantics/i/Track_2> ;
     schema:keywords """Large Language Models
 Metadata
@@ -349,7 +350,8 @@ Our results suggest feasibility of solving of the proposed task with the modern 
         <https://w3id.org/okn/semantics/i/Author_339>,
         <https://w3id.org/okn/semantics/i/Author_340>,
         <https://w3id.org/okn/semantics/i/Author_341> ;
-    schema:hasPart <https://w3id.org/okn/semantics/i/SoftwareSourceCode_75_4> ;
+    schema:hasPart <https://w3id.org/okn/semantics/i/ORKGComparison_75_8>,
+        <https://w3id.org/okn/semantics/i/SoftwareSourceCode_75_4> ;
     schema:isPartOf <https://w3id.org/okn/semantics/i/Track_2> ;
     schema:keywords """Large Language Models
 Prompt Engineering
@@ -469,7 +471,8 @@ Findings: The use of MMDIO substantially enhanced the organization, accessibilit
 Value: The proposed MMDIO framework advances digital humanities research by increasing data semantic richness and interoperability, establishing the foundation for future research in cultural heritage preservation. Moreover, it demonstrates the value of adapted frameworks for handling complex data environments in particular research fields.\"""" ;
     schema:author <https://w3id.org/okn/semantics/i/Author_370>,
         <https://w3id.org/okn/semantics/i/Author_371> ;
-    schema:hasPart <https://w3id.org/okn/semantics/i/Ontology_87_6> ;
+    schema:hasPart <https://w3id.org/okn/semantics/i/ORKGComparison_87_8>,
+        <https://w3id.org/okn/semantics/i/Ontology_87_6> ;
     schema:isPartOf <https://w3id.org/okn/semantics/i/Track_2> ;
     schema:keywords """Data Integration
 Digital Resource Collection
@@ -489,7 +492,8 @@ Our approach relies on (i) reindex sponsored entities by bid value to ensure the
         <https://w3id.org/okn/semantics/i/Author_373>,
         <https://w3id.org/okn/semantics/i/Author_374>,
         <https://w3id.org/okn/semantics/i/Author_47> ;
-    schema:hasPart <https://w3id.org/okn/semantics/i/SoftwareSourceCode_88_4> ;
+    schema:hasPart <https://w3id.org/okn/semantics/i/ORKGComparison_88_8>,
+        <https://w3id.org/okn/semantics/i/SoftwareSourceCode_88_4> ;
     schema:isPartOf <https://w3id.org/okn/semantics/i/Track_2> ;
     schema:keywords """Web of Data
 Data Monetisation
@@ -1112,6 +1116,32 @@ Query Processing""" ;
     schema:name "CC BY-NC-SA 4.0" ;
     schema:url "https://creativecommons.org/licenses/by-nc-sa/4.0/" .
 
+<https://w3id.org/okn/semantics/i/ORKGComparison_75_8> a schema:ORKGComparison ;
+    schema:description "Comparing research papers that tackle the problem of taxonomy expansion" ;
+    schema:identifier "https://doi.org/10.48366/R722259"^^xsd:anyURI ;
+    schema:license <https://w3id.org/okn/semantics/i/License/CC0%201.0%20Universal> ;
+    schema:name "Comparison on Taxonomy expansion " ;
+    schema:url "https://orkg.org/comparison/R722259" .
+
+<https://w3id.org/okn/semantics/i/ORKGComparison_87_8> a schema:ORKGComparison ;
+    schema:description "Advancing the Study of Medieval Manuscripts: A Comparative Analysis of Ontological Frameworks with a Focus on Integrating Heterogeneous Data Sources " ;
+    schema:identifier "https://doi.org/10.48366/R721525"^^xsd:anyURI ;
+    schema:license <https://w3id.org/okn/semantics/i/License/CC0%201.0%20Universal> ;
+    schema:name "Comparison on ontological frameworks" ;
+    schema:url "https://orkg.org/comparison/R721525" .
+
+<https://w3id.org/okn/semantics/i/ORKGComparison_88_8> a schema:ORKGComparison ;
+    schema:description "Comparison of Related Work of \"Enabling Delayed-Answer Auctions for RDF Knowledge Graphs Monetisation\" " ;
+    schema:identifier "https://doi.org/10.48366/R722823"^^xsd:anyURI ;
+    schema:license <https://w3id.org/okn/semantics/i/License/CC0%201.0%20Universal> ;
+    schema:name "Comparison on related work" ;
+    schema:url "https://orkg.org/comparison/R722823" .
+
+<https://w3id.org/okn/semantics/i/ORKGPaper_30_8> a schema:ORKGPaper ;
+    schema:license <https://w3id.org/okn/semantics/i/License/CC0%201.0%20Universal> ;
+    schema:name "ORKG Paper" ;
+    schema:url "https://orkg.org/paper/R703708/R703713" .
+
 <https://w3id.org/okn/semantics/i/Ontology_38_6> a schema:Ontology ;
     schema:description "Semantic Smart Readiness Indicator Framework" ;
     schema:identifier "https://zenodo.org/doi/10.5281/zenodo.10047286"^^xsd:anyURI ;
@@ -1244,10 +1274,6 @@ Query Processing""" ;
     schema:nationality "Germany" ;
     schema:url "http://cs.upb.de/ds"^^xsd:anyURI .
 
-<https://w3id.org/okn/semantics/i/License/CC0%201.0%20Universal> a schema:CreativeWork ;
-    schema:name "CC0 1.0 Universal" ;
-    schema:url "https://creativecommons.org/publicdomain/zero/1.0/" .
-
 <https://w3id.org/okn/semantics/i/License/GNU%20General%20Public%20License%20v3.0> a schema:CreativeWork ;
     schema:name "GNU General Public License v3.0" ;
     schema:url "http://choosealicense.com/licenses/gpl-3.0/" .
@@ -1268,6 +1294,10 @@ Query Processing""" ;
 <https://w3id.org/okn/semantics/i/License/MIT%20License> a schema:CreativeWork ;
     schema:name "MIT License" ;
     schema:url "http://choosealicense.com/licenses/mit/" .
+
+<https://w3id.org/okn/semantics/i/License/CC0%201.0%20Universal> a schema:CreativeWork ;
+    schema:name "CC0 1.0 Universal" ;
+    schema:url "https://creativecommons.org/publicdomain/zero/1.0/" .
 
 <https://w3id.org/okn/semantics/i/License/CC%20BY%204.0%20International> a schema:CreativeWork ;
     schema:name "CC BY 4.0 International" ;
