@@ -1,1 +1,1 @@
-# Accepted Papers (industry track)
+# Accepted Papers (Industry Track)
