@@ -1,1 +1,1 @@
-# Photogallery of SEMANTiCS 2023
+# Photogallery of SEMANTiCS 2024
