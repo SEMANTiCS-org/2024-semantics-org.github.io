@@ -1,9 +1,8 @@
 # Press Corner
-<p style="text-align: justify !important;"> SEMANTiCS stands as the main European event dedicated to exploring the significance of semantic technologies, which serve as critical components driving the development and deployment of data-driven applications. As the 20th edition approaches, SEMANTiCS continues its tradition of bringing together leaders from diverse industries, distinguished researchers, data scientists, information management professionals, and experts in digital transformation. This convergence of expertise creates the ideal environment to foster collaboration and facilitate the exchange of knowledge. 
-</p>
-<p style="text-align: justify !important;"> 
-If you wish to cover the conference or conduct interviews with the speakers, please don't hesitate to contact our PR team. Reach out to us for media accreditation!
-</p>
+##### SEMANTiCS is the leading European conference on semantic technologies that are at the core of data-driven applications. The 19th edition of SEMANTiCS brings international industry leaders, top researchers, data scientists, information management professionals and digital transformation experts together.  
+
+If you are interested to cover the conference or conduct interviews with the speakers, please reach out to our PR team.
+Approach us for media accreditation!
 
 ### Press pictures
 
@@ -14,15 +13,15 @@ If you wish to cover the conference or conduct interviews with the speakers, ple
 <col class="col3">
 <tbody>
     <tr>
-      <td rowspan="2"><img src="../img/press/8.jpg"></td>
-      <td><img src="../img/press/1.jpg"></td>
-      <td><img src="../img/press/2.jpg"></td>
-      <td><img src="../img/press/3.jpg"></td>
+      <td rowspan="2"><img src="../img/press/p7.jpeg"></td>
+      <td><img src="../img/press/p1.jpeg"></td>
+      <td><img src="../img/press/p2.jpeg"></td>
+      <td><img src="../img/press/p3.jpeg"></td>
     </tr>
     <tr>
-      <td><img src="../img/press/4.jpg"></td>
-      <td><img src="../img/press/7.jpg"></td>
-      <td><img src="../img/press/6.jpg"></td>
+      <td><img src="../img/press/p5.jpeg"></td>
+      <td><img src="../img/press/p6.jpeg"></td>
+      <td><img src="../img/press/p8.jpeg"></td>
     </tr>
     <tr>
       <td colspan="4" style="padding-top: 0px; text-align: left">Pictures free for reuse: CC by SEMANTICS</td>
@@ -30,25 +29,45 @@ If you wish to cover the conference or conduct interviews with the speakers, ple
 </tbody>
 </table>
 <br>
+
+
+### SEMANTiCS is featured in
+
+<table id="featured_in">
+<col class="col0">
+<col class="col1">
+<col class="col2">
+<col class="col3">
+<tbody>
+    <tr>
+      <td><img src="../img/press/logo_zdnet.png"></td>
+      <td><img src="../img/press/logo_tedx.png"></td>
+      <td><img src="../img/press/logo_bigdata_insider.png"></td>
+      <td><img src="../img/press/logo_die_presse.png"></td>
+      <td><img src="../img/press/logo_futurezone.jpeg"></td>
+    </tr>
+</tbody>
+</table>
+
+<br>
 <div class="row">
 
   <div class="col-5">
     <h3>Downloads</h3>
     <div>Official Logo</div>
-    <img src="../img/semantics2024-logo.png" width="80%" height="auto">
+    <img src="../img/semantics2023-logo-white.png" width="80%" height="auto">
     <h3>Gallery</h3>
-    <div><ul><li>
-    <!--<a href="https://www.flickr.com/photos/25094278@N02/albums">Flickr</a></li> -->
-    </ul></div>
+    <div><ul><li><a href="https://www.flickr.com/photos/25094278@N02/albums">Flickr</a></li></ul></div>
     <h3>Videos</h3>
-    <!-- <div><ul>
+    <div><ul>
         <li><a href="https://2017.semantics.cc/voices">Clips</a></li>
         <li><a href="https://youtu.be/VuMd0zWiack">Promotion Video</a></li>
+        <!-- 2023 Video https://www.youtube.com/watch?v=yiSueDf84TI -->
         <li><a href="http://2015.semantics.cc/recordings">Keynote Recordings</a></li>
         <li><a href="http://2015.semantics.cc/voices">Participants Voices</a></li>
         <li><a href="https://vimeo.com/106100573">Promotion Video</a></li>
     </ul></div>
-  </div>-->
+  </div>
 
   <div class="col-7">
     <h3>Press Releases</h3>
