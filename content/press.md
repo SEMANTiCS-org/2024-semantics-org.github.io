@@ -47,8 +47,8 @@ If you wish to cover the conference or conduct interviews with the speakers, ple
         <li><a href="http://2015.semantics.cc/recordings">Keynote Recordings</a></li>
         <li><a href="http://2015.semantics.cc/voices">Participants Voices</a></li>
         <li><a href="https://vimeo.com/106100573">Promotion Video</a></li>
-    </ul></div>
-  </div>-->
+    </ul></div>-->
+  </div>
 
   <div class="col-7">
     <h3>Press Releases</h3>
