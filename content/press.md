@@ -14,15 +14,15 @@ If you wish to cover the conference or conduct interviews with the speakers, ple
 <col class="col3">
 <tbody>
     <tr>
-      <td rowspan="2"><img src="../img/press/p7.jpeg"></td>
-      <td><img src="../img/press/p1.jpeg"></td>
-      <td><img src="../img/press/p2.jpeg"></td>
-      <td><img src="../img/press/p3.jpeg"></td>
+      <td rowspan="2"><img src="../img/press/8.jpg"></td>
+      <td><img src="../img/press/1.jpg"></td>
+      <td><img src="../img/press/2.jpg"></td>
+      <td><img src="../img/press/3.jpg"></td>
     </tr>
     <tr>
-      <td><img src="../img/press/p5.jpeg"></td>
-      <td><img src="../img/press/p6.jpeg"></td>
-      <td><img src="../img/press/p8.jpeg"></td>
+      <td><img src="../img/press/4.jpg"></td>
+      <td><img src="../img/press/7.jpg"></td>
+      <td><img src="../img/press/6.jpg"></td>
     </tr>
     <tr>
       <td colspan="4" style="padding-top: 0px; text-align: left">Pictures free for reuse: CC by SEMANTICS</td>
